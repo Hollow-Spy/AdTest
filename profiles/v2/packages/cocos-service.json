@@ -1,0 +1,25 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "bd91d0",
+      "services": []
+    },
+    "cocos-play": {
+      "configID": "bd91d0",
+      "services": []
+    },
+    "windows": {
+      "configID": "bd91d0",
+      "services": []
+    },
+    "web-mobile": {
+      "configID": "bd91d0",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "bd91d0",
+    "services": [],
+    "__version__": "3.0.5"
+  }
+}

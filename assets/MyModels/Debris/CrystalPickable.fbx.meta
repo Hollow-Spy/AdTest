@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e",
+  "files": [],
+  "subMetas": {
+    "06998": {
+      "importer": "gltf-mesh",
+      "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@06998",
+      "displayName": "",
+      "id": "06998",
+      "name": "CrystalPickable.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a26": {
+      "importer": "gltf-material",
+      "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@89a26",
+      "displayName": "",
+      "id": "89a26",
+      "name": "Atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fcff": {
+      "importer": "gltf-scene",
+      "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@0fcff",
+      "displayName": "",
+      "id": "0fcff",
+      "name": "CrystalPickable.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@0fcff",
+    "assetFinder": {
+      "meshes": [
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@06998"
+      ],
+      "skeletons": [],
+      "textures": [
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@7d6ab"
+      ],
+      "materials": [
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@89a26"
+      ],
+      "scenes": [
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@0fcff"
+      ]
+    }
+  }
+}

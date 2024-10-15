@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad",
+  "files": [],
+  "subMetas": {
+    "199fe": {
+      "importer": "gltf-mesh",
+      "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad@199fe",
+      "displayName": "",
+      "id": "199fe",
+      "name": "RockDebri2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f84b1f62-6486-497b-885f-0fe49e9907ad@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a26": {
+      "importer": "gltf-material",
+      "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad@89a26",
+      "displayName": "",
+      "id": "89a26",
+      "name": "Atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67dab": {
+      "importer": "gltf-scene",
+      "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad@67dab",
+      "displayName": "",
+      "id": "67dab",
+      "name": "RockDebris2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "f84b1f62-6486-497b-885f-0fe49e9907ad@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f84b1f62-6486-497b-885f-0fe49e9907ad@67dab",
+    "assetFinder": {
+      "meshes": [
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@199fe"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@7d6ab"
+      ],
+      "materials": [
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@89a26"
+      ],
+      "scenes": [
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@67dab"
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.Material",
+  "_name": "PlayerMat",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "a7612b54-35e3-4238-a1a9-4a7b54635839",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_OUTLINE_PASS": true
+    },
+    {
+      "USE_BASE_COLOR_MAP": true,
+      "USE_1ST_SHADE_MAP": true,
+      "SHADE_MAP_1_AS_SHADE_MAP_2": true,
+      "BASE_COLOR_MAP_AS_SHADE_MAP_1": true,
+      "BASE_COLOR_MAP_AS_SHADE_MAP_2": true
+    },
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "lineWidth": 10.5,
+      "depthBias": 0.1
+    },
+    {
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      },
+      "shadeColor1": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+      },
+      "shadeColor2": {
+        "__type__": "cc.Color",
+        "r": 114,
+        "g": 114,
+        "b": 114,
+        "a": 255
+      },
+      "specular": {
+        "__type__": "cc.Color",
+        "r": 63,
+        "g": 63,
+        "b": 63,
+        "a": 81
+      },
+      "mainTexture": {
+        "__uuid__": "13be0ab6-ffaf-43af-8910-572cc9e67013@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    },
+    {},
+    {}
+  ]
+}

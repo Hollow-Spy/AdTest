@@ -1,0 +1,3586 @@
+{
+  "bcb14f34-8131-435f-a8f5-29612c45af59": {
+    "url": "db://assets/material",
+    "value": {}
+  },
+  "1ddc11ba-ecbd-4472-841c-f3777cb248da": {
+    "url": "db://assets/model",
+    "value": {}
+  },
+  "b0a4abb1-db32-49c3-9e09-a45b922a2094": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "9e344b1f-8681-4ddf-bcc6-bb014c332bb8": {
+    "url": "db://assets/skybox",
+    "value": {}
+  },
+  "11a1d348-a622-41b2-89f3-ed24657e5f84": {
+    "url": "db://assets/model/helloWorld",
+    "value": {}
+  },
+  "e00862a8-c500-427c-b76f-bbe5203f19cc": {
+    "url": "db://assets/model/helloWorld/grass",
+    "value": {}
+  },
+  "482a5162-dad9-446c-b548-8486c7598ee1": {
+    "url": "db://assets/material/hdcSky.mtl",
+    "value": {}
+  },
+  "23e988d0-7168-4fe2-9d46-f29c114e9e33": {
+    "url": "db://assets/material/plane.mtl",
+    "value": {}
+  },
+  "70d33758-1c1e-424d-b0ab-eac7410559bf": {
+    "url": "db://assets/material/seafloor.mtl",
+    "value": {}
+  },
+  "8e047178-f61c-4322-a2f6-d1adb28b6ae2": {
+    "url": "db://assets/material/shield.mtl",
+    "value": {}
+  },
+  "8a58ddec-f437-40b9-8ec0-1fc87de97fb5": {
+    "url": "db://assets/material/soldier.mtl",
+    "value": {}
+  },
+  "a155f93b-7769-4ca4-b75f-b13e52193859": {
+    "url": "db://assets/material/stone.mtl",
+    "value": {}
+  },
+  "7bf9df40-4bc9-4e25-8cb0-9a500f949102": {
+    "url": "db://assets/material/tree.mtl",
+    "value": {}
+  },
+  "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb": {
+    "url": "db://assets/scene/main.scene",
+    "value": {}
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg",
+    "value": {}
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220": {
+    "url": "db://assets/model/helloWorld/hdcSky.FBX",
+    "value": {}
+  },
+  "f0512d7a-e4f6-4209-8dc0-ed1de7149c85": {
+    "url": "db://assets/model/helloWorld/hdcSky.prefab",
+    "value": {}
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623": {
+    "url": "db://assets/model/helloWorld/islands.FBX",
+    "value": {}
+  },
+  "ccc3a755-7d3d-4304-aa3b-ca4792d79d9f": {
+    "url": "db://assets/model/helloWorld/islands.prefab",
+    "value": {}
+  },
+  "4f4c4a34-2d08-4a4d-9169-834d7ce82cee": {
+    "url": "db://assets/model/helloWorld/seafloor.jpg",
+    "value": {}
+  },
+  "95e5b02a-e338-423c-bdbb-17486db1d9eb": {
+    "url": "db://assets/model/helloWorld/shield.jpg",
+    "value": {}
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0",
+    "value": {
+      "depends": [
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@e9a6d",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@40c10",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@8fd34",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@74afd",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@bb97f",
+        "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@7d38f"
+      ]
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@e9a6d": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "4f4c4a34-2d08-4a4d-9169-834d7ce82cee@6c48a": {
+    "url": "db://assets/model/helloWorld/seafloor.jpg@6c48a",
+    "value": {
+      "depends": [
+        "4f4c4a34-2d08-4a4d-9169-834d7ce82cee"
+      ]
+    }
+  },
+  "dc4a96c7-321a-48af-81e5-1127ad3ae432": {
+    "url": "db://assets/model/helloWorld/sky.png",
+    "value": {}
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@40c10": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@bb97f": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@7d38f": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@74afd": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "5af201b5-5951-4e2c-a81f-ac4aad9132cb@b47c0@8fd34": {
+    "url": "db://assets/skybox/sunnySkyBox.jpg@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289": {
+    "url": "db://assets/model/helloWorld/soldier.FBX",
+    "value": {}
+  },
+  "95e5b02a-e338-423c-bdbb-17486db1d9eb@6c48a": {
+    "url": "db://assets/model/helloWorld/shield.jpg@6c48a",
+    "value": {
+      "depends": [
+        "95e5b02a-e338-423c-bdbb-17486db1d9eb"
+      ]
+    }
+  },
+  "6f891a7b-5a08-48e6-9841-ddb364ac86b1": {
+    "url": "db://assets/model/helloWorld/soldier.png",
+    "value": {}
+  },
+  "dc4a96c7-321a-48af-81e5-1127ad3ae432@6c48a": {
+    "url": "db://assets/model/helloWorld/sky.png@6c48a",
+    "value": {
+      "depends": [
+        "dc4a96c7-321a-48af-81e5-1127ad3ae432"
+      ]
+    }
+  },
+  "cfc53c4e-7956-482b-aebc-3fb1dcd36eef": {
+    "url": "db://assets/model/helloWorld/soldier.prefab",
+    "value": {}
+  },
+  "0718d996-39bf-4ab4-bb63-496666fef467": {
+    "url": "db://assets/model/helloWorld/stone.jpg",
+    "value": {}
+  },
+  "6f891a7b-5a08-48e6-9841-ddb364ac86b1@6c48a": {
+    "url": "db://assets/model/helloWorld/soldier.png@6c48a",
+    "value": {
+      "depends": [
+        "6f891a7b-5a08-48e6-9841-ddb364ac86b1"
+      ]
+    }
+  },
+  "c5083e75-ad2e-4ea9-8b33-dee748995b00": {
+    "url": "db://assets/model/helloWorld/tree.png",
+    "value": {}
+  },
+  "c5083e75-ad2e-4ea9-8b33-dee748995b00@6c48a": {
+    "url": "db://assets/model/helloWorld/tree.png@6c48a",
+    "value": {
+      "depends": [
+        "c5083e75-ad2e-4ea9-8b33-dee748995b00"
+      ]
+    }
+  },
+  "0718d996-39bf-4ab4-bb63-496666fef467@6c48a": {
+    "url": "db://assets/model/helloWorld/stone.jpg@6c48a",
+    "value": {
+      "depends": [
+        "0718d996-39bf-4ab4-bb63-496666fef467"
+      ]
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX",
+    "value": {}
+  },
+  "b698e55a-b00b-4987-a8b4-af83cddc59f7": {
+    "url": "db://assets/model/helloWorld/grass/grass.mtl",
+    "value": {}
+  },
+  "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87": {
+    "url": "db://assets/model/helloWorld/grass/grass.png",
+    "value": {}
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@f6832": {
+    "url": "db://assets/model/helloWorld/hdcSky.FBX@f6832",
+    "value": {
+      "depends": []
+    }
+  },
+  "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87@6c48a": {
+    "url": "db://assets/model/helloWorld/grass/grass.png@6c48a",
+    "value": {
+      "depends": [
+        "ae18deea-c6e0-4a3d-bf70-ee5533f9ba87"
+      ]
+    }
+  },
+  "ebe68402-4803-40d3-b0a2-ca696e3f7c60": {
+    "url": "db://assets/model/helloWorld/grass/grass.prefab",
+    "value": {}
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@7f40d": {
+    "url": "db://assets/model/helloWorld/hdcSky.FBX@7f40d",
+    "value": {
+      "depends": []
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@d6067": {
+    "url": "db://assets/model/helloWorld/hdcSky.FBX@d6067",
+    "value": {
+      "depends": [
+        "929e58ce-66a4-4e04-9036-4244456a1220@7f40d"
+      ]
+    }
+  },
+  "929e58ce-66a4-4e04-9036-4244456a1220@bfc57": {
+    "url": "db://assets/model/helloWorld/hdcSky.FBX@bfc57",
+    "value": {
+      "depends": [
+        "482a5162-dad9-446c-b548-8486c7598ee1",
+        "929e58ce-66a4-4e04-9036-4244456a1220@f6832"
+      ]
+    }
+  },
+  "5e4d48c4-0e34-45af-a268-89485197e8bc": {
+    "url": "db://assets/model/helloWorld/grass/grassGoup.prefab",
+    "value": {}
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX@ef5e1",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@18751": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@18751",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@30732": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@da6f3": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@da6f3",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@4b929": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@4b929",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@39f7b": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@39f7b",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@73b7f": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@73b7f",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@f1394": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX@73b7f",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@75ee4": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@438fe": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@71919": {
+    "url": "db://assets/model/helloWorld/islands.FBX@71919",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@a72ab": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@80e0c": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX@80e0c",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@2b0a8": {
+    "url": "db://assets/model/helloWorld/islands.FBX@2b0a8",
+    "value": {
+      "depends": []
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@9787f": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX@9787f",
+    "value": {
+      "depends": [
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@80e0c"
+      ]
+    }
+  },
+  "aade09ee-8f9d-413c-a9e8-8c686ea5e160@3022b": {
+    "url": "db://assets/model/helloWorld/grass/grass.FBX@3022b",
+    "value": {
+      "depends": [
+        "b698e55a-b00b-4987-a8b4-af83cddc59f7",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@ef5e1",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@438fe",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f",
+        "aade09ee-8f9d-413c-a9e8-8c686ea5e160@73b7f"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@4a7d8": {
+    "url": "db://assets/model/helloWorld/islands.FBX@4a7d8",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@e94f1": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@e94f1",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@f3caa": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@f3caa",
+    "value": {
+      "depends": [
+        "6f891a7b-5a08-48e6-9841-ddb364ac86b1"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@0e750": {
+    "url": "db://assets/model/helloWorld/islands.FBX@0e750",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@a2be1": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@a2be1",
+    "value": {
+      "depends": [
+        "e3553cad-2f15-4293-859a-8f43c780f289@e94f1"
+      ]
+    }
+  },
+  "e3553cad-2f15-4293-859a-8f43c780f289@d252c": {
+    "url": "db://assets/model/helloWorld/soldier.FBX@d252c",
+    "value": {
+      "depends": [
+        "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+        "e3553cad-2f15-4293-859a-8f43c780f289@18751",
+        "e3553cad-2f15-4293-859a-8f43c780f289@30732",
+        "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+        "e3553cad-2f15-4293-859a-8f43c780f289@da6f3",
+        "e3553cad-2f15-4293-859a-8f43c780f289@f1394",
+        "8a58ddec-f437-40b9-8ec0-1fc87de97fb5",
+        "e3553cad-2f15-4293-859a-8f43c780f289@4b929",
+        "e3553cad-2f15-4293-859a-8f43c780f289@75ee4",
+        "8e047178-f61c-4322-a2f6-d1adb28b6ae2",
+        "e3553cad-2f15-4293-859a-8f43c780f289@39f7b",
+        "e3553cad-2f15-4293-859a-8f43c780f289@a72ab",
+        "e3553cad-2f15-4293-859a-8f43c780f289@73b7f",
+        "e3553cad-2f15-4293-859a-8f43c780f289@73b7f"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@ef86b": {
+    "url": "db://assets/model/helloWorld/islands.FBX@ef86b",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@426f2": {
+    "url": "db://assets/model/helloWorld/islands.FBX@426f2",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@754a2": {
+    "url": "db://assets/model/helloWorld/islands.FBX@754a2",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@1332c": {
+    "url": "db://assets/model/helloWorld/islands.FBX@1332c",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@4d16f": {
+    "url": "db://assets/model/helloWorld/islands.FBX@4d16f",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@efe84": {
+    "url": "db://assets/model/helloWorld/islands.FBX@efe84",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@baeab": {
+    "url": "db://assets/model/helloWorld/islands.FBX@baeab",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@eeccb": {
+    "url": "db://assets/model/helloWorld/islands.FBX@eeccb",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@3b6f8": {
+    "url": "db://assets/model/helloWorld/islands.FBX@3b6f8",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@2df3a": {
+    "url": "db://assets/model/helloWorld/islands.FBX@2df3a",
+    "value": {
+      "depends": [
+        "0ab3142a-6968-4073-95af-026bc3b23623@baeab"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@91a84": {
+    "url": "db://assets/model/helloWorld/islands.FBX@91a84",
+    "value": {
+      "depends": [
+        "0ab3142a-6968-4073-95af-026bc3b23623@eeccb"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@0595c": {
+    "url": "db://assets/model/helloWorld/islands.FBX@0595c",
+    "value": {
+      "depends": [
+        "0ab3142a-6968-4073-95af-026bc3b23623@3b6f8"
+      ]
+    }
+  },
+  "0ab3142a-6968-4073-95af-026bc3b23623@cc8e5": {
+    "url": "db://assets/model/helloWorld/islands.FBX@cc8e5",
+    "value": {
+      "depends": [
+        "70d33758-1c1e-424d-b0ab-eac7410559bf",
+        "0ab3142a-6968-4073-95af-026bc3b23623@2b0a8",
+        "a155f93b-7769-4ca4-b75f-b13e52193859",
+        "0ab3142a-6968-4073-95af-026bc3b23623@4a7d8",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@0e750",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@ef86b",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@426f2",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@754a2",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@71919",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@1332c",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@4d16f",
+        "7bf9df40-4bc9-4e25-8cb0-9a500f949102",
+        "0ab3142a-6968-4073-95af-026bc3b23623@efe84"
+      ]
+    }
+  },
+  "46395442-038f-4db2-a426-be81ae53f0bc": {
+    "url": "db://assets/MyModels",
+    "value": {}
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a": {
+    "url": "db://assets/MyModels/IdBr_character.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "13be0ab6-ffaf-43af-8910-572cc9e67013": {
+    "url": "db://assets/MyModels/T_Char.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "13be0ab6-ffaf-43af-8910-572cc9e67013@6c48a": {
+    "url": "db://assets/MyModels/T_Char.png@6c48a",
+    "value": {
+      "depends": [
+        "13be0ab6-ffaf-43af-8910-572cc9e67013"
+      ]
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@e1cf9": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@e1cf9",
+    "value": {
+      "depends": []
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@953bc": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@953bc",
+    "value": {
+      "depends": []
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@5fd65": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@5fd65",
+    "value": {
+      "depends": []
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@788c3": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@788c3",
+    "value": {
+      "depends": []
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@438fe": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@0c90c": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@0c90c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "f48b96d4-d406-42c7-b36b-5c90ce73364a@880cf": {
+    "url": "db://assets/MyModels/IdBr_character.fbx@880cf",
+    "value": {
+      "depends": [
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@0c90c",
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@e1cf9",
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@438fe",
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@953bc",
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@5fd65",
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@788c3",
+        "f48b96d4-d406-42c7-b36b-5c90ce73364a@953bc"
+      ]
+    }
+  },
+  "a8a56527-cf2f-4f3a-8af5-3e7af712a812": {
+    "url": "db://assets/scene/scene.scene",
+    "value": {}
+  },
+  "81f79c00-6db7-4f95-84d8-aa8cc16e7a2c": {
+    "url": "db://assets/MyModels/PlayerMat.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "13be0ab6-ffaf-43af-8910-572cc9e67013@6c48a"
+      ]
+    }
+  },
+  "1c1641a9-cfa5-45a5-8c3c-c880f5858d1e": {
+    "url": "db://assets/Scripts",
+    "value": {}
+  },
+  "9c4273b2-1615-4cc3-a0d1-ecd306d15696": {
+    "url": "db://assets/Scripts/Player.ts",
+    "value": {}
+  },
+  "17ed3be9-ce9a-4b55-a44b-64971c76fa33": {
+    "url": "db://assets/Animations",
+    "value": {}
+  },
+  "9b3bb3f5-3873-46ca-8d7d-f1b061e7b971": {
+    "url": "db://assets/Animations/PlayerAnimator.animgraph",
+    "value": {
+      "depends": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@29e0e",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@1709a",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7878c",
+        "eecf3c02-3ce0-44af-919e-d9b730bec61b",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@65bda",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@fdc81"
+      ]
+    }
+  },
+  "91f7a139-7c97-41f3-ad7d-e180895a938a": {
+    "url": "db://assets/Scripts/CameraFollow.ts",
+    "value": {}
+  },
+  "080795ff-b571-4677-ba91-9031e74725a2": {
+    "url": "db://assets/Scripts/Rock.ts",
+    "value": {}
+  },
+  "0dd9fc3a-f0a2-4866-9eb0-c9ecea857ff9": {
+    "url": "db://assets/MyModels/Attack1.anim",
+    "value": {}
+  },
+  "b47ee7fb-79cf-418e-a5ad-ffcbf497061d": {
+    "url": "db://assets/Scripts/PlayerAnimTags.ts",
+    "value": {}
+  },
+  "eecf3c02-3ce0-44af-919e-d9b730bec61b": {
+    "url": "db://assets/MyModels/TopMask.animask",
+    "value": {
+      "depends": []
+    }
+  },
+  "14762276-0865-43a8-ba4c-3c6a81bd9598": {
+    "url": "db://assets/Sprites",
+    "value": {}
+  },
+  "c80fbbfa-b3ed-4499-bc4e-e291812e6784": {
+    "url": "db://assets/Sprites/Fill.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c80fbbfa-b3ed-4499-bc4e-e291812e6784@6c48a": {
+    "url": "db://assets/Sprites/Fill.png@6c48a",
+    "value": {
+      "depends": [
+        "c80fbbfa-b3ed-4499-bc4e-e291812e6784"
+      ]
+    }
+  },
+  "aeb65e48-421a-4865-a660-651c12da0356": {
+    "url": "db://assets/Sprites/Border.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "aeb65e48-421a-4865-a660-651c12da0356@6c48a": {
+    "url": "db://assets/Sprites/Border.png@6c48a",
+    "value": {
+      "depends": [
+        "aeb65e48-421a-4865-a660-651c12da0356"
+      ]
+    }
+  },
+  "aeb65e48-421a-4865-a660-651c12da0356@f9941": {
+    "url": "db://assets/Sprites/Border.png@f9941",
+    "value": {
+      "depends": [
+        "aeb65e48-421a-4865-a660-651c12da0356@6c48a"
+      ]
+    }
+  },
+  "c80fbbfa-b3ed-4499-bc4e-e291812e6784@f9941": {
+    "url": "db://assets/Sprites/Fill.png@f9941",
+    "value": {
+      "depends": [
+        "c80fbbfa-b3ed-4499-bc4e-e291812e6784@6c48a"
+      ]
+    }
+  },
+  "ba1a8e6b-6586-43a0-a487-e594b63ad6a5": {
+    "url": "db://assets/Sprites/BorderEmpty.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@6c48a": {
+    "url": "db://assets/Sprites/BorderEmpty.png@6c48a",
+    "value": {
+      "depends": [
+        "ba1a8e6b-6586-43a0-a487-e594b63ad6a5"
+      ]
+    }
+  },
+  "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@f9941": {
+    "url": "db://assets/Sprites/BorderEmpty.png@f9941",
+    "value": {
+      "depends": [
+        "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@6c48a"
+      ]
+    }
+  },
+  "b3d43fae-4000-445e-8d95-c8fb58ec1dba": {
+    "url": "db://assets/Animations/BarPopOn.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69": {
+    "url": "db://assets/Animations/HitShake.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "0b9fba32-8cc9-40ce-a382-1d2f86ef42f9": {
+    "url": "db://assets/Prefabs",
+    "value": {}
+  },
+  "06264f3a-1e32-498e-82ab-2c5e106d51be": {
+    "url": "db://assets/Prefabs/Rock.prefab",
+    "value": {}
+  },
+  "46240b7e-265f-4546-9c70-4f151a326e4c": {
+    "url": "db://assets/Scripts/ResourcePickUp.ts",
+    "value": {}
+  },
+  "3536c74f-e9dd-4b16-bfb2-871a86b2cbcd": {
+    "url": "db://assets/Scripts/ResourcePickUpTrigger.ts",
+    "value": {}
+  },
+  "c31b8892-aa0b-4a02-b8f0-a5a291d254b6": {
+    "url": "db://assets/Prefabs/ResourceMaterial.pmtl",
+    "value": {}
+  },
+  "f36e4aaf-9870-4e4f-bcb5-c10220bf9cfe": {
+    "url": "db://assets/Scripts/AutoDelete.ts",
+    "value": {}
+  },
+  "e5b14555-d71f-4f1c-97ea-7e2da59eb928": {
+    "url": "db://assets/Scripts/ResourceManager.ts",
+    "value": {}
+  },
+  "1a48091e-9f8d-45a8-a806-2114b6818d7e": {
+    "url": "db://assets/Animations/ResourceShakeAdd.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "c1d730ac-b4c8-4772-9c20-a63caae70783": {
+    "url": "db://assets/Scripts/UpgradeShop.ts",
+    "value": {}
+  },
+  "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046": {
+    "url": "db://assets/Prefabs/Resource1.prefab",
+    "value": {
+      "depends": [
+        "27f88a35-f654-43a0-ac3d-f39eb1590b4f@f9941",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e"
+      ]
+    }
+  },
+  "67a5f649-4c99-4593-a67a-ef95db52cc24": {
+    "url": "db://assets/MyModels/Enviroment",
+    "value": {}
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx",
+    "value": {}
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@40935": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@40935",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@73684": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@73684",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@08c68": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@08c68",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@41ac8": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@c6e33": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@c6e33",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@97b51": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@97b51",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@fd4a2": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@fd4a2",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@53dde": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@53dde",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@0a48a": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@0a48a",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@2e7eb": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@2e7eb",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@a5f8b": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@a5f8b",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@313e0": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@313e0",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@c2d4f": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@c2d4f",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@88b23": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@88b23",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@344db": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@344db",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@c172e": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@c172e",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@e97c4": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@e97c4",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@d96fe": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@d96fe",
+    "value": {
+      "depends": [
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@08c68",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@41ac8",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c6e33",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@97b51",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@fd4a2",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@0a48a",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@2e7eb",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@313e0",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c2d4f",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@88b23",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@73684",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c172e",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@40935",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@e97c4",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@09513",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@17dd0",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@181b3",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@65559",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c1084",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@d8f22",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@45f73",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@57ecb",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@cf1a7",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@1ed8d",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@32aeb",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@f702a",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@591ce",
+        "913f8cb0-088e-44a7-876d-3eb34d71dd9a",
+        "1125185d-83b0-48c1-b93b-338bb3699564@f051b"
+      ]
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@65559": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@65559",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@09513": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@09513",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@17dd0": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@17dd0",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@181b3": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@181b3",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@99380": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@99380",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@b4e6b": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@b4e6b",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@c1084": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@c1084",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@d8f22": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@d8f22",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@45f73": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@45f73",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@57ecb": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@57ecb",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@cf1a7": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@cf1a7",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@1ed8d": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@1ed8d",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@6271f": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@6271f",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@32aeb": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@32aeb",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@f702a": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@f702a",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@591ce": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@591ce",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc339af-d3f7-438e-b52f-1569bb7cd28c": {
+    "url": "db://assets/Materials",
+    "value": {}
+  },
+  "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0": {
+    "url": "db://assets/Materials/RockMat.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a"
+      ]
+    }
+  },
+  "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040": {
+    "url": "db://assets/Materials/ColorAtlas.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a": {
+    "url": "db://assets/Materials/ColorAtlas.png@6c48a",
+    "value": {
+      "depends": [
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040"
+      ]
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@48b02": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@7d6ab": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "1125185d-83b0-48c1-b93b-338bb3699564@48b02"
+      ]
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@89a26": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "1125185d-83b0-48c1-b93b-338bb3699564@7d6ab"
+      ]
+    }
+  },
+  "1125185d-83b0-48c1-b93b-338bb3699564@f051b": {
+    "url": "db://assets/MyModels/Enviroment/Enviroment.fbx@f051b",
+    "value": {
+      "depends": []
+    }
+  },
+  "7e911a34-93b1-457a-8e93-2694ca7d2315": {
+    "url": "db://assets/MyModels/Enviroment/Material",
+    "value": {}
+  },
+  "913f8cb0-088e-44a7-876d-3eb34d71dd9a": {
+    "url": "db://assets/Materials/Atlas.mtl",
+    "value": {}
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5": {
+    "url": "db://assets/MyModels/Squeaker.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@2f6d1": {
+    "url": "db://assets/MyModels/Squeaker.fbx@2f6d1",
+    "value": {
+      "depends": []
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@c60cc": {
+    "url": "db://assets/MyModels/Squeaker.fbx@c60cc",
+    "value": {
+      "depends": []
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@438fe": {
+    "url": "db://assets/MyModels/Squeaker.fbx@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@48b02": {
+    "url": "db://assets/MyModels/Squeaker.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@7d6ab": {
+    "url": "db://assets/MyModels/Squeaker.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@48b02"
+      ]
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@89a26": {
+    "url": "db://assets/MyModels/Squeaker.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@7d6ab"
+      ]
+    }
+  },
+  "e63327b4-c788-4cd4-8135-a464bafd36a5@bfd3b": {
+    "url": "db://assets/MyModels/Squeaker.fbx@bfd3b",
+    "value": {
+      "depends": [
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@89a26",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@2f6d1",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@438fe",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@c60cc",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@c60cc"
+      ]
+    }
+  },
+  "367c23fa-078e-4e1c-921c-5031a220455f": {
+    "url": "db://assets/Scripts/Squeaker.ts",
+    "value": {}
+  },
+  "4da51720-37f1-4b88-b95f-5746ff3ff11f": {
+    "url": "db://assets/Prefabs/Squeaker.prefab",
+    "value": {
+      "depends": [
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@2f6d1",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@438fe",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@c60cc",
+        "e63327b4-c788-4cd4-8135-a464bafd36a5@c60cc"
+      ]
+    }
+  },
+  "3d90c838-8d41-4147-84d0-abf23df03ae0": {
+    "url": "db://assets/Audio",
+    "value": {}
+  },
+  "4063a0c4-0cbe-4de5-9e00-79690a9f5503": {
+    "url": "db://assets/Audio/splunk.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "ce137251-8d8c-456c-ad1f-4bb616f40a52": {
+    "url": "db://assets/Audio/Ambience1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782": {
+    "url": "db://assets/MyModels/Bot.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@2f6d1": {
+    "url": "db://assets/MyModels/Bot.fbx@2f6d1",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@83fcf": {
+    "url": "db://assets/MyModels/Bot.fbx@83fcf",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@4837e": {
+    "url": "db://assets/MyModels/Bot.fbx@4837e",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@e682c": {
+    "url": "db://assets/MyModels/Bot.fbx@e682c",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@97e42": {
+    "url": "db://assets/MyModels/Bot.fbx@97e42",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@438fe": {
+    "url": "db://assets/MyModels/Bot.fbx@438fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@48b02": {
+    "url": "db://assets/MyModels/Bot.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@7d6ab": {
+    "url": "db://assets/MyModels/Bot.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@48b02"
+      ]
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@aaacc": {
+    "url": "db://assets/MyModels/Bot.fbx@aaacc",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@7d6ab"
+      ]
+    }
+  },
+  "bbb36ea6-a98e-409f-be2b-029b3c8d2782@6fff1": {
+    "url": "db://assets/MyModels/Bot.fbx@6fff1",
+    "value": {
+      "depends": [
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@aaacc",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@2f6d1",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@438fe",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@83fcf",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@4837e",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@e682c",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@97e42",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@83fcf"
+      ]
+    }
+  },
+  "d16a2973-14e1-4ca8-abfb-d55030ec59db": {
+    "url": "db://assets/Animations/WalterAnimator.animgraph",
+    "value": {
+      "depends": [
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@83fcf",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@4837e"
+      ]
+    }
+  },
+  "84474881-f707-420a-9b22-100c908993a5": {
+    "url": "db://assets/Materials/BotMat.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a"
+      ]
+    }
+  },
+  "1e04effa-b5b2-402a-8f58-5d3ff64e7865": {
+    "url": "db://assets/MyModels/Debris",
+    "value": {}
+  },
+  "1f79a827-7b7f-4f02-87a0-cdaaf4c97715": {
+    "url": "db://assets/MyModels/Debris/RockDebris3.fbx",
+    "value": {}
+  },
+  "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@f8fd1": {
+    "url": "db://assets/MyModels/Debris/RockDebris3.fbx@f8fd1",
+    "value": {
+      "depends": []
+    }
+  },
+  "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@48b02": {
+    "url": "db://assets/MyModels/Debris/RockDebris3.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@7d6ab": {
+    "url": "db://assets/MyModels/Debris/RockDebris3.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@48b02"
+      ]
+    }
+  },
+  "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@89a26": {
+    "url": "db://assets/MyModels/Debris/RockDebris3.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@7d6ab"
+      ]
+    }
+  },
+  "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@7ff06": {
+    "url": "db://assets/MyModels/Debris/RockDebris3.fbx@7ff06",
+    "value": {
+      "depends": [
+        "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@89a26",
+        "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@f8fd1"
+      ]
+    }
+  },
+  "5c197718-c787-4fba-af9b-3df2c699a794": {
+    "url": "db://assets/MyModels/Debris/RockDebris1.fbx",
+    "value": {}
+  },
+  "5c197718-c787-4fba-af9b-3df2c699a794@9bce3": {
+    "url": "db://assets/MyModels/Debris/RockDebris1.fbx@9bce3",
+    "value": {
+      "depends": []
+    }
+  },
+  "5c197718-c787-4fba-af9b-3df2c699a794@48b02": {
+    "url": "db://assets/MyModels/Debris/RockDebris1.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "5c197718-c787-4fba-af9b-3df2c699a794@7d6ab": {
+    "url": "db://assets/MyModels/Debris/RockDebris1.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "5c197718-c787-4fba-af9b-3df2c699a794@48b02"
+      ]
+    }
+  },
+  "5c197718-c787-4fba-af9b-3df2c699a794@89a26": {
+    "url": "db://assets/MyModels/Debris/RockDebris1.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "5c197718-c787-4fba-af9b-3df2c699a794@7d6ab"
+      ]
+    }
+  },
+  "5c197718-c787-4fba-af9b-3df2c699a794@61c56": {
+    "url": "db://assets/MyModels/Debris/RockDebris1.fbx@61c56",
+    "value": {
+      "depends": [
+        "5c197718-c787-4fba-af9b-3df2c699a794@89a26",
+        "5c197718-c787-4fba-af9b-3df2c699a794@9bce3"
+      ]
+    }
+  },
+  "f84b1f62-6486-497b-885f-0fe49e9907ad": {
+    "url": "db://assets/MyModels/Debris/RockDebris2.fbx",
+    "value": {}
+  },
+  "f84b1f62-6486-497b-885f-0fe49e9907ad@199fe": {
+    "url": "db://assets/MyModels/Debris/RockDebris2.fbx@199fe",
+    "value": {
+      "depends": []
+    }
+  },
+  "f84b1f62-6486-497b-885f-0fe49e9907ad@48b02": {
+    "url": "db://assets/MyModels/Debris/RockDebris2.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "f84b1f62-6486-497b-885f-0fe49e9907ad@7d6ab": {
+    "url": "db://assets/MyModels/Debris/RockDebris2.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@48b02"
+      ]
+    }
+  },
+  "f84b1f62-6486-497b-885f-0fe49e9907ad@89a26": {
+    "url": "db://assets/MyModels/Debris/RockDebris2.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@7d6ab"
+      ]
+    }
+  },
+  "f84b1f62-6486-497b-885f-0fe49e9907ad@67dab": {
+    "url": "db://assets/MyModels/Debris/RockDebris2.fbx@67dab",
+    "value": {
+      "depends": [
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@89a26",
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@199fe"
+      ]
+    }
+  },
+  "9d83f9a0-5115-492a-990c-c92933301354": {
+    "url": "db://assets/Materials/RockParticle.mtl",
+    "value": {}
+  },
+  "4094bfe2-9b99-4cce-bcf3-d62c4897c605": {
+    "url": "db://assets/Prefabs/Debris",
+    "value": {}
+  },
+  "ac8a9b53-d533-41ee-b7ec-740e17d367c4": {
+    "url": "db://assets/Prefabs/Debris/RockParticle.prefab",
+    "value": {
+      "depends": [
+        "66945786-b66e-4190-a178-242f32d838b8",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "5c197718-c787-4fba-af9b-3df2c699a794@9bce3",
+        "a12e4082-ea2f-4030-a243-3c3a0c0fa4b7",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@199fe",
+        "c6f7297b-3e82-4f67-876b-9a876e9c8e70",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@f8fd1",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ]
+    }
+  },
+  "6180b36b-bef7-4cb2-b14a-39b9c64992c4": {
+    "url": "db://assets/Scripts/RandomImpulse.ts",
+    "value": {}
+  },
+  "b61292dd-b306-455e-ada9-d42d5d8d7bb0": {
+    "url": "db://assets/Scripts/EnableRandom.ts",
+    "value": {}
+  },
+  "66945786-b66e-4190-a178-242f32d838b8": {
+    "url": "db://assets/Audio/RockHit1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "a12e4082-ea2f-4030-a243-3c3a0c0fa4b7": {
+    "url": "db://assets/Audio/RockHit2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "c6f7297b-3e82-4f67-876b-9a876e9c8e70": {
+    "url": "db://assets/Audio/RockHit3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "34b13e92-2256-415e-add9-a91be5f35868": {
+    "url": "db://assets/MyModels/Debris/RockResource.fbx",
+    "value": {}
+  },
+  "34b13e92-2256-415e-add9-a91be5f35868@0842b": {
+    "url": "db://assets/MyModels/Debris/RockResource.fbx@0842b",
+    "value": {
+      "depends": []
+    }
+  },
+  "34b13e92-2256-415e-add9-a91be5f35868@48b02": {
+    "url": "db://assets/MyModels/Debris/RockResource.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "34b13e92-2256-415e-add9-a91be5f35868@7d6ab": {
+    "url": "db://assets/MyModels/Debris/RockResource.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "34b13e92-2256-415e-add9-a91be5f35868@48b02"
+      ]
+    }
+  },
+  "34b13e92-2256-415e-add9-a91be5f35868@89a26": {
+    "url": "db://assets/MyModels/Debris/RockResource.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "34b13e92-2256-415e-add9-a91be5f35868@7d6ab"
+      ]
+    }
+  },
+  "34b13e92-2256-415e-add9-a91be5f35868@52bb3": {
+    "url": "db://assets/MyModels/Debris/RockResource.fbx@52bb3",
+    "value": {
+      "depends": [
+        "34b13e92-2256-415e-add9-a91be5f35868@89a26",
+        "34b13e92-2256-415e-add9-a91be5f35868@0842b"
+      ]
+    }
+  },
+  "c2321210-177f-4b1f-a119-bb498a7ae1e5": {
+    "url": "db://assets/Animations/PickableRotation.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79": {
+    "url": "db://assets/Audio/PickUp.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "27f88a35-f654-43a0-ac3d-f39eb1590b4f": {
+    "url": "db://assets/Sprites/RockPickUp.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "27f88a35-f654-43a0-ac3d-f39eb1590b4f@6c48a": {
+    "url": "db://assets/Sprites/RockPickUp.png@6c48a",
+    "value": {
+      "depends": [
+        "27f88a35-f654-43a0-ac3d-f39eb1590b4f"
+      ]
+    }
+  },
+  "27f88a35-f654-43a0-ac3d-f39eb1590b4f@f9941": {
+    "url": "db://assets/Sprites/RockPickUp.png@f9941",
+    "value": {
+      "depends": [
+        "27f88a35-f654-43a0-ac3d-f39eb1590b4f@6c48a"
+      ]
+    }
+  },
+  "e651c4d6-1238-4b54-90f9-c0077fb2802e": {
+    "url": "db://assets/Prefabs/PickUp.prefab",
+    "value": {
+      "depends": [
+        "34b13e92-2256-415e-add9-a91be5f35868@52bb3",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79",
+        "c31b8892-aa0b-4a02-b8f0-a5a291d254b6",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5"
+      ]
+    }
+  },
+  "7813a54d-266a-4333-9248-5585427d0868": {
+    "url": "db://assets/Sprites/ToolLevel.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7813a54d-266a-4333-9248-5585427d0868@6c48a": {
+    "url": "db://assets/Sprites/ToolLevel.png@6c48a",
+    "value": {
+      "depends": [
+        "7813a54d-266a-4333-9248-5585427d0868"
+      ]
+    }
+  },
+  "7813a54d-266a-4333-9248-5585427d0868@f9941": {
+    "url": "db://assets/Sprites/ToolLevel.png@f9941",
+    "value": {
+      "depends": [
+        "7813a54d-266a-4333-9248-5585427d0868@6c48a"
+      ]
+    }
+  },
+  "87d3b508-86c3-4374-9388-ec9ce291646e": {
+    "url": "db://assets/Audio/TooLow.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6": {
+    "url": "db://assets/MyModels/Player.fbx",
+    "value": {}
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@30732": {
+    "url": "db://assets/MyModels/Player.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@99380": {
+    "url": "db://assets/MyModels/Player.fbx@99380",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "44ee202f-a986-4769-b3a8-d454848436d6@7d6ab"
+      ]
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@b107a": {
+    "url": "db://assets/MyModels/Player.fbx@b107a",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@e1cf9": {
+    "url": "db://assets/MyModels/Player.fbx@e1cf9",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@41ac8": {
+    "url": "db://assets/MyModels/Player.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@7d7c3": {
+    "url": "db://assets/MyModels/Player.fbx@7d7c3",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@65bda": {
+    "url": "db://assets/MyModels/Player.fbx@65bda",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@29e0e": {
+    "url": "db://assets/MyModels/Player.fbx@29e0e",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@1709a": {
+    "url": "db://assets/MyModels/Player.fbx@1709a",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@fdc81": {
+    "url": "db://assets/MyModels/Player.fbx@fdc81",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@7878c": {
+    "url": "db://assets/MyModels/Player.fbx@7878c",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@f1394": {
+    "url": "db://assets/MyModels/Player.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@75ee4": {
+    "url": "db://assets/MyModels/Player.fbx@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@48b02": {
+    "url": "db://assets/MyModels/Player.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@7d6ab": {
+    "url": "db://assets/MyModels/Player.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "44ee202f-a986-4769-b3a8-d454848436d6@48b02"
+      ]
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@0c90c": {
+    "url": "db://assets/MyModels/Player.fbx@0c90c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "44ee202f-a986-4769-b3a8-d454848436d6@5af6d": {
+    "url": "db://assets/MyModels/Player.fbx@5af6d",
+    "value": {
+      "depends": [
+        "44ee202f-a986-4769-b3a8-d454848436d6@0c90c",
+        "44ee202f-a986-4769-b3a8-d454848436d6@e1cf9",
+        "44ee202f-a986-4769-b3a8-d454848436d6@30732",
+        "44ee202f-a986-4769-b3a8-d454848436d6@99380",
+        "44ee202f-a986-4769-b3a8-d454848436d6@41ac8",
+        "44ee202f-a986-4769-b3a8-d454848436d6@f1394",
+        "44ee202f-a986-4769-b3a8-d454848436d6@99380",
+        "44ee202f-a986-4769-b3a8-d454848436d6@7d7c3",
+        "44ee202f-a986-4769-b3a8-d454848436d6@75ee4",
+        "44ee202f-a986-4769-b3a8-d454848436d6@99380",
+        "44ee202f-a986-4769-b3a8-d454848436d6@b107a",
+        "44ee202f-a986-4769-b3a8-d454848436d6@65bda",
+        "44ee202f-a986-4769-b3a8-d454848436d6@29e0e",
+        "44ee202f-a986-4769-b3a8-d454848436d6@1709a",
+        "44ee202f-a986-4769-b3a8-d454848436d6@fdc81",
+        "44ee202f-a986-4769-b3a8-d454848436d6@7878c",
+        "44ee202f-a986-4769-b3a8-d454848436d6@65bda"
+      ]
+    }
+  },
+  "57ebd1e3-7c15-4de1-b2a5-13e4785afc14": {
+    "url": "db://assets/Materials/DrillMat.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a"
+      ]
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe": {
+    "url": "db://assets/MyModels/Player.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@30732": {
+    "url": "db://assets/MyModels/Player.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@99380": {
+    "url": "db://assets/MyModels/Player.fbx@99380",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d6ab"
+      ]
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@b107a": {
+    "url": "db://assets/MyModels/Player.fbx@b107a",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@e1cf9": {
+    "url": "db://assets/MyModels/Player.fbx@e1cf9",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@41ac8": {
+    "url": "db://assets/MyModels/Player.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d7c3": {
+    "url": "db://assets/MyModels/Player.fbx@7d7c3",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@65bda": {
+    "url": "db://assets/MyModels/Player.fbx@65bda",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@29e0e": {
+    "url": "db://assets/MyModels/Player.fbx@29e0e",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@1709a": {
+    "url": "db://assets/MyModels/Player.fbx@1709a",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@fdc81": {
+    "url": "db://assets/MyModels/Player.fbx@fdc81",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7878c": {
+    "url": "db://assets/MyModels/Player.fbx@7878c",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@f1394": {
+    "url": "db://assets/MyModels/Player.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@75ee4": {
+    "url": "db://assets/MyModels/Player.fbx@75ee4",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@48b02": {
+    "url": "db://assets/MyModels/Player.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d6ab": {
+    "url": "db://assets/MyModels/Player.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@48b02"
+      ]
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@0c90c": {
+    "url": "db://assets/MyModels/Player.fbx@0c90c",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b"
+      ]
+    }
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@5af6d": {
+    "url": "db://assets/MyModels/Player.fbx@5af6d",
+    "value": {
+      "depends": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@0c90c",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@e1cf9",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@30732",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@99380",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@b107a",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@f1394",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@99380",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@41ac8",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@75ee4",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@99380",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d7c3",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@a72ab",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@65bda",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@29e0e",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@1709a",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@fdc81",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7878c",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@65bda"
+      ]
+    }
+  },
+  "1d9fdbbb-3f22-43a7-a706-89d238de92ce": {
+    "url": "db://assets/scene/MainScene.scene",
+    "value": {
+      "depends": [
+        "1d9fdbbb-3f22-43a7-a706-89d238de92ce",
+        "81f79c00-6db7-4f95-84d8-aa8cc16e7a2c",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@e1cf9",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@30732",
+        "733f8d88-f0b9-4da0-8908-aa71df6ecb2e",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@b107a",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@f1394",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "df88d968-689e-451e-8463-4be7d036bef2",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@41ac8",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@75ee4",
+        "d2b219a3-9d42-4755-a826-5ef46b439fb1",
+        "57ebd1e3-7c15-4de1-b2a5-13e4785afc14",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d7c3",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@a72ab",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "9b3bb3f5-3873-46ca-8d7d-f1b061e7b971",
+        "60f4d8ed-c9ec-4558-8543-49a37c1e04fb",
+        "380861b6-4b9e-4b9a-9581-10c38a1ef169",
+        "fc587508-0f12-42f0-8ed5-fed87466ab93",
+        "3685ff52-5f93-42bf-8cbb-353c85e336cc",
+        "5be63732-3a19-4c1c-b9d8-7c842a97b9e3",
+        "f3939cd8-a9f8-44ba-82a7-d6784ddd9d32",
+        "b472d8a9-965d-407b-a4af-83db4b5eac68",
+        "39729199-00ba-4198-804e-0802c9d949db",
+        "c1539ef6-f33e-4798-825b-617143eca406",
+        "bc68ded0-f93a-45fc-ba74-4bc8a1465e6d",
+        "435a789c-f35c-4923-bb71-5173d84313b3@f9941",
+        "435a789c-f35c-4923-bb71-5173d84313b3@f9941",
+        "4b70d8f6-e330-4a3c-82a1-3291679b0231@f9941",
+        "d258ab02-2cc7-41bd-8c4a-06ad06456ee3@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@f9941",
+        "29e74cd8-846f-4ca2-8029-abce04be9c96@f9941",
+        "283dd02b-002b-40be-96f9-b7c2168f1e40@f9941",
+        "9d920687-01e7-461f-a2bc-e55e08e260ed@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f@f9941",
+        "73c36266-64bc-4c98-988d-bc96a90715ba@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "e95471ce-160f-490e-9432-89d41c0b72dd@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "b80443a6-842c-4fee-988f-637259f03ee3@f9941",
+        "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "3ca41e38-ad33-4bef-8036-2bea3fa3d17c",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "20efa97f-ae87-4652-ac84-8c7da7a9d89b",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@f9941",
+        "69f930f8-8821-42b3-b7ed-04788d965a14@f9941",
+        "29e74cd8-846f-4ca2-8029-abce04be9c96@f9941",
+        "9d920687-01e7-461f-a2bc-e55e08e260ed@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f@f9941",
+        "73c36266-64bc-4c98-988d-bc96a90715ba@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "27f88a35-f654-43a0-ac3d-f39eb1590b4f@f9941",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db@f9941",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "27f88a35-f654-43a0-ac3d-f39eb1590b4f@f9941",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+        "e95471ce-160f-490e-9432-89d41c0b72dd@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "b80443a6-842c-4fee-988f-637259f03ee3@f9941",
+        "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "3ca41e38-ad33-4bef-8036-2bea3fa3d17c",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "20efa97f-ae87-4652-ac84-8c7da7a9d89b",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@f9941",
+        "69f930f8-8821-42b3-b7ed-04788d965a14@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "b80443a6-842c-4fee-988f-637259f03ee3@f9941",
+        "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "bc2f477d-59d2-4c7b-8656-da6345a9826f@f9941",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "3ca41e38-ad33-4bef-8036-2bea3fa3d17c",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "20efa97f-ae87-4652-ac84-8c7da7a9d89b",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "87d3b508-86c3-4374-9388-ec9ce291646e",
+        "b6354035-2dc0-4e99-beed-fbca063c200e",
+        "238c22c5-9b14-4937-b741-cc0830cd2a6e",
+        "14481d78-8e0e-4477-b03a-1ce92826b495",
+        "dcc41f8d-64c4-4884-a395-7bccf8bec0eb",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@6fff1",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "21fade22-1b09-414a-85e7-7d4f6c291551",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d7c3",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79",
+        "de7923a7-1870-4bb5-b50c-25b1aad1be4d",
+        "a8745f4c-5a1f-4775-af8c-4ca37cd0fa69",
+        "c31b8892-aa0b-4a02-b8f0-a5a291d254b6",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "715b2dbb-f7c8-4819-a31a-3c6c924626db@41ac8",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79",
+        "de7923a7-1870-4bb5-b50c-25b1aad1be4d",
+        "a8745f4c-5a1f-4775-af8c-4ca37cd0fa69",
+        "c31b8892-aa0b-4a02-b8f0-a5a291d254b6",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d16a2973-14e1-4ca8-abfb-d55030ec59db",
+        "9d671909-81d0-4f1e-a82e-6cd2cf99c3c2",
+        "a01614d4-6d5a-4d9a-8b62-d0b78dbaad40",
+        "bd5562c3-e42e-49aa-aead-ad5b6b1e86cb",
+        "9d671909-81d0-4f1e-a82e-6cd2cf99c3c2",
+        "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef@f9941",
+        "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef@f9941",
+        "bbb36ea6-a98e-409f-be2b-029b3c8d2782@97e42",
+        "84474881-f707-420a-9b22-100c908993a5",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db@f9941",
+        "b8f90617-ac18-4b28-b388-c70e72cde0d3",
+        "b8f90617-ac18-4b28-b388-c70e72cde0d3",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@2e76e",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "ea73dfa4-eb07-4aa1-8ab7-f40e4086547a",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "6adb51b5-ecf0-4220-83d2-e6a506981c36",
+        "674f3487-2713-40cf-b8bd-4fefc5503326",
+        "b7d8098d-6d54-49ae-84d4-8099eed1624a",
+        "7f6afacc-09e6-42c7-9b5f-3cd600ff1e26",
+        "578af125-1d09-4e8d-990d-eacc4ea50487",
+        "445a3d13-91e3-4c94-8134-d2ec4881903d",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@53dde",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "7813a54d-266a-4333-9248-5585427d0868@f9941",
+        "87d3b508-86c3-4374-9388-ec9ce291646e",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+        "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "aeb65e48-421a-4865-a660-651c12da0356@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "c80fbbfa-b3ed-4499-bc4e-e291812e6784@f9941",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@41ac8",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c2d4f",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@17dd0",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@88b23",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@65559",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@45f73",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@1ed8d",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@cf1a7",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c172e",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@0a48a",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@0a48a",
+        "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@65559",
+        "ea73dfa4-eb07-4aa1-8ab7-f40e4086547a",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@09513",
+        "ea73dfa4-eb07-4aa1-8ab7-f40e4086547a",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@fd4a2",
+        "ea73dfa4-eb07-4aa1-8ab7-f40e4086547a",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@c6e33",
+        "1125185d-83b0-48c1-b93b-338bb3699564@d96fe",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "4063a0c4-0cbe-4de5-9e00-79690a9f5503",
+        "ce137251-8d8c-456c-ad1f-4bb616f40a52",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "a8a56527-cf2f-4f3a-8af5-3e7af712a812",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "97263b41-35a9-4fc7-8a49-45a5f9d16b62": {
+    "url": "db://assets/scene/Save.scene",
+    "value": {}
+  },
+  "c453e0f9-0ce1-424e-98ab-857a056e8cfe@a72ab": {
+    "url": "db://assets/MyModels/Player.fbx@a72ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "7fac5b4b-64d7-4d08-8d81-53fbdeb7caf5": {
+    "url": "db://assets/Materials/PickAxeMat.mtl",
+    "value": {}
+  },
+  "733f8d88-f0b9-4da0-8908-aa71df6ecb2e": {
+    "url": "db://assets/Materials/PickaxeMat.mtl",
+    "value": {
+      "depends": [
+        "a7612b54-35e3-4238-a1a9-4a7b54635839",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a",
+        "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040@6c48a"
+      ]
+    }
+  },
+  "380861b6-4b9e-4b9a-9581-10c38a1ef169": {
+    "url": "db://assets/Audio/Swing1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "c1539ef6-f33e-4798-825b-617143eca406": {
+    "url": "db://assets/Audio/PickAxeHit2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "bc68ded0-f93a-45fc-ba74-4bc8a1465e6d": {
+    "url": "db://assets/Audio/PickAxeHit3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "60f4d8ed-c9ec-4558-8543-49a37c1e04fb": {
+    "url": "db://assets/Audio/PickAxeHit.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc587508-0f12-42f0-8ed5-fed87466ab93": {
+    "url": "db://assets/Audio/Swing2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "3685ff52-5f93-42bf-8cbb-353c85e336cc": {
+    "url": "db://assets/Audio/Swing3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "39729199-00ba-4198-804e-0802c9d949db": {
+    "url": "db://assets/Audio/Foostep4.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "b472d8a9-965d-407b-a4af-83db4b5eac68": {
+    "url": "db://assets/Audio/Foostep3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "f3939cd8-a9f8-44ba-82a7-d6784ddd9d32": {
+    "url": "db://assets/Audio/Foostep2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "5be63732-3a19-4c1c-b9d8-7c842a97b9e3": {
+    "url": "db://assets/Audio/Foostep1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "a3c9655b-5055-43af-b3a2-2731ab3149fa": {
+    "url": "db://assets/CascadiaMonoPL-Regular.otf",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9137022-afbe-4789-a2ff-6622c550063d": {
+    "url": "db://assets/Scripts/UIResource.ts",
+    "value": {}
+  },
+  "29e74cd8-846f-4ca2-8029-abce04be9c96": {
+    "url": "db://assets/Sprites/DualDrillCard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "29e74cd8-846f-4ca2-8029-abce04be9c96@6c48a": {
+    "url": "db://assets/Sprites/DualDrillCard.png@6c48a",
+    "value": {
+      "depends": [
+        "29e74cd8-846f-4ca2-8029-abce04be9c96"
+      ]
+    }
+  },
+  "283dd02b-002b-40be-96f9-b7c2168f1e40": {
+    "url": "db://assets/Sprites/PickaxeCard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "283dd02b-002b-40be-96f9-b7c2168f1e40@6c48a": {
+    "url": "db://assets/Sprites/PickaxeCard.png@6c48a",
+    "value": {
+      "depends": [
+        "283dd02b-002b-40be-96f9-b7c2168f1e40"
+      ]
+    }
+  },
+  "e95471ce-160f-490e-9432-89d41c0b72dd": {
+    "url": "db://assets/Sprites/Cost.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e95471ce-160f-490e-9432-89d41c0b72dd@6c48a": {
+    "url": "db://assets/Sprites/Cost.png@6c48a",
+    "value": {
+      "depends": [
+        "e95471ce-160f-490e-9432-89d41c0b72dd"
+      ]
+    }
+  },
+  "69f930f8-8821-42b3-b7ed-04788d965a14": {
+    "url": "db://assets/Sprites/JackHammerCard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "69f930f8-8821-42b3-b7ed-04788d965a14@6c48a": {
+    "url": "db://assets/Sprites/JackHammerCard.png@6c48a",
+    "value": {
+      "depends": [
+        "69f930f8-8821-42b3-b7ed-04788d965a14"
+      ]
+    }
+  },
+  "e95471ce-160f-490e-9432-89d41c0b72dd@f9941": {
+    "url": "db://assets/Sprites/Cost.png@f9941",
+    "value": {
+      "depends": [
+        "e95471ce-160f-490e-9432-89d41c0b72dd@6c48a"
+      ]
+    }
+  },
+  "283dd02b-002b-40be-96f9-b7c2168f1e40@f9941": {
+    "url": "db://assets/Sprites/PickaxeCard.png@f9941",
+    "value": {
+      "depends": [
+        "283dd02b-002b-40be-96f9-b7c2168f1e40@6c48a"
+      ]
+    }
+  },
+  "69f930f8-8821-42b3-b7ed-04788d965a14@f9941": {
+    "url": "db://assets/Sprites/JackHammerCard.png@f9941",
+    "value": {
+      "depends": [
+        "69f930f8-8821-42b3-b7ed-04788d965a14@6c48a"
+      ]
+    }
+  },
+  "29e74cd8-846f-4ca2-8029-abce04be9c96@f9941": {
+    "url": "db://assets/Sprites/DualDrillCard.png@f9941",
+    "value": {
+      "depends": [
+        "29e74cd8-846f-4ca2-8029-abce04be9c96@6c48a"
+      ]
+    }
+  },
+  "4dee91bd-6fab-40f0-9ba9-cf37b684855f": {
+    "url": "db://assets/Sprites/UpgradeButton.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4dee91bd-6fab-40f0-9ba9-cf37b684855f@6c48a": {
+    "url": "db://assets/Sprites/UpgradeButton.png@6c48a",
+    "value": {
+      "depends": [
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f"
+      ]
+    }
+  },
+  "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941": {
+    "url": "db://assets/Sprites/UpgradeButton.png@f9941",
+    "value": {
+      "depends": [
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@6c48a"
+      ]
+    }
+  },
+  "9d920687-01e7-461f-a2bc-e55e08e260ed": {
+    "url": "db://assets/Sprites/UpgradeArrow.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d920687-01e7-461f-a2bc-e55e08e260ed@6c48a": {
+    "url": "db://assets/Sprites/UpgradeArrow.png@6c48a",
+    "value": {
+      "depends": [
+        "9d920687-01e7-461f-a2bc-e55e08e260ed"
+      ]
+    }
+  },
+  "9d920687-01e7-461f-a2bc-e55e08e260ed@f9941": {
+    "url": "db://assets/Sprites/UpgradeArrow.png@f9941",
+    "value": {
+      "depends": [
+        "9d920687-01e7-461f-a2bc-e55e08e260ed@6c48a"
+      ]
+    }
+  },
+  "43788c11-2766-438f-863a-e7c9d95e48c5": {
+    "url": "db://assets/Sprites/CloseButton.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "43788c11-2766-438f-863a-e7c9d95e48c5@6c48a": {
+    "url": "db://assets/Sprites/CloseButton.png@6c48a",
+    "value": {
+      "depends": [
+        "43788c11-2766-438f-863a-e7c9d95e48c5"
+      ]
+    }
+  },
+  "43788c11-2766-438f-863a-e7c9d95e48c5@f9941": {
+    "url": "db://assets/Sprites/CloseButton.png@f9941",
+    "value": {
+      "depends": [
+        "43788c11-2766-438f-863a-e7c9d95e48c5@6c48a"
+      ]
+    }
+  },
+  "802cdfcd-a956-40a0-b606-45dd8168c33d": {
+    "url": "db://assets/Animations/upgradeStartUp.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "fd8e8c8d-2a72-417b-bac0-06354473b1ff": {
+    "url": "db://assets/Animations/upgradeWindowLoop.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "5c7e3011-1dd9-47b2-a6f2-359dd18ef5f7": {
+    "url": "db://assets/Scripts/UpgradeManager.ts",
+    "value": {}
+  },
+  "a2f1a1a0-c879-4624-887e-0977d7804d0f": {
+    "url": "db://assets/Scripts/UIUpgrade.ts",
+    "value": {}
+  },
+  "20efa97f-ae87-4652-ac84-8c7da7a9d89b": {
+    "url": "db://assets/Animations/CloseUpgradeWindow.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f": {
+    "url": "db://assets/Sprites/upgradeButtonHover.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f@6c48a": {
+    "url": "db://assets/Sprites/upgradeButtonHover.png@6c48a",
+    "value": {
+      "depends": [
+        "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f"
+      ]
+    }
+  },
+  "73c36266-64bc-4c98-988d-bc96a90715ba": {
+    "url": "db://assets/Sprites/upgradeButtonPressed.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "73c36266-64bc-4c98-988d-bc96a90715ba@6c48a": {
+    "url": "db://assets/Sprites/upgradeButtonPressed.png@6c48a",
+    "value": {
+      "depends": [
+        "73c36266-64bc-4c98-988d-bc96a90715ba"
+      ]
+    }
+  },
+  "73c36266-64bc-4c98-988d-bc96a90715ba@f9941": {
+    "url": "db://assets/Sprites/upgradeButtonPressed.png@f9941",
+    "value": {
+      "depends": [
+        "73c36266-64bc-4c98-988d-bc96a90715ba@6c48a"
+      ]
+    }
+  },
+  "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f@f9941": {
+    "url": "db://assets/Sprites/upgradeButtonHover.png@f9941",
+    "value": {
+      "depends": [
+        "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f@6c48a"
+      ]
+    }
+  },
+  "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74": {
+    "url": "db://assets/Sprites/CloseButtonClick.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b80443a6-842c-4fee-988f-637259f03ee3": {
+    "url": "db://assets/Sprites/CloseButtonHover.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@6c48a": {
+    "url": "db://assets/Sprites/CloseButtonClick.png@6c48a",
+    "value": {
+      "depends": [
+        "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74"
+      ]
+    }
+  },
+  "b80443a6-842c-4fee-988f-637259f03ee3@6c48a": {
+    "url": "db://assets/Sprites/CloseButtonHover.png@6c48a",
+    "value": {
+      "depends": [
+        "b80443a6-842c-4fee-988f-637259f03ee3"
+      ]
+    }
+  },
+  "b80443a6-842c-4fee-988f-637259f03ee3@f9941": {
+    "url": "db://assets/Sprites/CloseButtonHover.png@f9941",
+    "value": {
+      "depends": [
+        "b80443a6-842c-4fee-988f-637259f03ee3@6c48a"
+      ]
+    }
+  },
+  "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@f9941": {
+    "url": "db://assets/Sprites/CloseButtonClick.png@f9941",
+    "value": {
+      "depends": [
+        "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@6c48a"
+      ]
+    }
+  },
+  "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381": {
+    "url": "db://assets/Sprites/Highlight.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@6c48a": {
+    "url": "db://assets/Sprites/Highlight.png@6c48a",
+    "value": {
+      "depends": [
+        "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381"
+      ]
+    }
+  },
+  "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@f9941": {
+    "url": "db://assets/Sprites/Highlight.png@f9941",
+    "value": {
+      "depends": [
+        "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@6c48a"
+      ]
+    }
+  },
+  "3ca41e38-ad33-4bef-8036-2bea3fa3d17c": {
+    "url": "db://assets/Animations/upgradeWindowUpgrade.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "eb302e48-9ab6-4e80-9772-73b3060ac801": {
+    "url": "db://assets/Scripts/BotAnimTag.ts",
+    "value": {}
+  },
+  "9b9600e2-2ff1-411b-88f4-b2e84e75ca58": {
+    "url": "db://assets/MyModels/Upgrades",
+    "value": {}
+  },
+  "b09f6b3c-130f-4408-90d3-7e77bce0d0d4": {
+    "url": "db://assets/MyModels/Upgrades/Drills.fbx",
+    "value": {}
+  },
+  "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@99380": {
+    "url": "db://assets/MyModels/Upgrades/Drills.fbx@99380",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d6ab"
+      ]
+    }
+  },
+  "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d7c3": {
+    "url": "db://assets/MyModels/Upgrades/Drills.fbx@7d7c3",
+    "value": {
+      "depends": []
+    }
+  },
+  "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@48b02": {
+    "url": "db://assets/MyModels/Upgrades/Drills.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d6ab": {
+    "url": "db://assets/MyModels/Upgrades/Drills.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@48b02"
+      ]
+    }
+  },
+  "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@859e7": {
+    "url": "db://assets/MyModels/Upgrades/Drills.fbx@859e7",
+    "value": {
+      "depends": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@99380",
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d7c3"
+      ]
+    }
+  },
+  "2d480931-f27e-4dc3-9b9f-9d0840c20492": {
+    "url": "db://assets/Prefabs/UpgradePickUp.prefab",
+    "value": {
+      "depends": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@859e7",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79",
+        "c31b8892-aa0b-4a02-b8f0-a5a291d254b6",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5"
+      ]
+    }
+  },
+  "afdb5f40-12f4-41ce-acb3-b92d9d6f8288": {
+    "url": "db://assets/Scripts/MainMusic.ts",
+    "value": {}
+  },
+  "80a35521-19ab-4409-aab9-77f270980942": {
+    "url": "db://assets/Sprites/DamageNumber2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "80a35521-19ab-4409-aab9-77f270980942@6c48a": {
+    "url": "db://assets/Sprites/DamageNumber2.png@6c48a",
+    "value": {
+      "depends": [
+        "80a35521-19ab-4409-aab9-77f270980942"
+      ]
+    }
+  },
+  "e98d1895-8354-4f91-9cb6-b59f3217c380": {
+    "url": "db://assets/Sprites/DamageNumber4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e98d1895-8354-4f91-9cb6-b59f3217c380@6c48a": {
+    "url": "db://assets/Sprites/DamageNumber4.png@6c48a",
+    "value": {
+      "depends": [
+        "e98d1895-8354-4f91-9cb6-b59f3217c380"
+      ]
+    }
+  },
+  "b2070b44-8d2e-4ffc-978a-2605463ab16e": {
+    "url": "db://assets/Sprites/DamageNumber3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b2070b44-8d2e-4ffc-978a-2605463ab16e@6c48a": {
+    "url": "db://assets/Sprites/DamageNumber3.png@6c48a",
+    "value": {
+      "depends": [
+        "b2070b44-8d2e-4ffc-978a-2605463ab16e"
+      ]
+    }
+  },
+  "80a35521-19ab-4409-aab9-77f270980942@f9941": {
+    "url": "db://assets/Sprites/DamageNumber2.png@f9941",
+    "value": {
+      "depends": [
+        "80a35521-19ab-4409-aab9-77f270980942@6c48a"
+      ]
+    }
+  },
+  "e98d1895-8354-4f91-9cb6-b59f3217c380@f9941": {
+    "url": "db://assets/Sprites/DamageNumber4.png@f9941",
+    "value": {
+      "depends": [
+        "e98d1895-8354-4f91-9cb6-b59f3217c380@6c48a"
+      ]
+    }
+  },
+  "b2070b44-8d2e-4ffc-978a-2605463ab16e@f9941": {
+    "url": "db://assets/Sprites/DamageNumber3.png@f9941",
+    "value": {
+      "depends": [
+        "b2070b44-8d2e-4ffc-978a-2605463ab16e@6c48a"
+      ]
+    }
+  },
+  "60dc597e-4d6a-49b5-851c-5e9abb148093": {
+    "url": "db://assets/Animations/NumberAnims",
+    "value": {}
+  },
+  "e807672e-98f7-4a2f-9a45-a4a70fcad1dd": {
+    "url": "db://assets/Animations/NumberAnims/NumberAnim1.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "6c7f45bc-8518-4697-8581-1c7362f29384": {
+    "url": "db://assets/Animations/NumberAnims/NumberAnim2.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a346cfb-4bca-436e-a75a-2dbe0621c4a1": {
+    "url": "db://assets/Animations/NumberAnims/NumberAnim3.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "daace4f0-b77c-477c-8eb1-8bba569bd828": {
+    "url": "db://assets/Scripts/DamageNumberAnim.ts",
+    "value": {}
+  },
+  "578af125-1d09-4e8d-990d-eacc4ea50487": {
+    "url": "db://assets/Prefabs/DamageNumber.prefab",
+    "value": {
+      "depends": [
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "80a35521-19ab-4409-aab9-77f270980942@f9941",
+        "e807672e-98f7-4a2f-9a45-a4a70fcad1dd",
+        "6c7f45bc-8518-4697-8581-1c7362f29384",
+        "8a346cfb-4bca-436e-a75a-2dbe0621c4a1"
+      ]
+    }
+  },
+  "7f6afacc-09e6-42c7-9b5f-3cd600ff1e26": {
+    "url": "db://assets/Prefabs/DamageNumber3.prefab",
+    "value": {
+      "depends": [
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "b2070b44-8d2e-4ffc-978a-2605463ab16e@f9941",
+        "e807672e-98f7-4a2f-9a45-a4a70fcad1dd",
+        "6c7f45bc-8518-4697-8581-1c7362f29384",
+        "8a346cfb-4bca-436e-a75a-2dbe0621c4a1",
+        "e807672e-98f7-4a2f-9a45-a4a70fcad1dd"
+      ]
+    }
+  },
+  "445a3d13-91e3-4c94-8134-d2ec4881903d": {
+    "url": "db://assets/Prefabs/DamageNumber4.prefab",
+    "value": {
+      "depends": [
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "e98d1895-8354-4f91-9cb6-b59f3217c380@f9941",
+        "e807672e-98f7-4a2f-9a45-a4a70fcad1dd",
+        "6c7f45bc-8518-4697-8581-1c7362f29384",
+        "8a346cfb-4bca-436e-a75a-2dbe0621c4a1",
+        "e807672e-98f7-4a2f-9a45-a4a70fcad1dd"
+      ]
+    }
+  },
+  "ec797aac-ce2e-436c-9da3-6f31f5166d5b": {
+    "url": "db://assets/Prefabs/Rock.prefab",
+    "value": {
+      "depends": [
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "e651c4d6-1238-4b54-90f9-c0077fb2802e",
+        "ac8a9b53-d533-41ee-b7ec-740e17d367c4",
+        "c4e956c7-1fa8-4684-a26a-88c336e4d066",
+        "7f6afacc-09e6-42c7-9b5f-3cd600ff1e26",
+        "578af125-1d09-4e8d-990d-eacc4ea50487",
+        "445a3d13-91e3-4c94-8134-d2ec4881903d",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@73684",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "7813a54d-266a-4333-9248-5585427d0868@f9941",
+        "87d3b508-86c3-4374-9388-ec9ce291646e",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+        "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "aeb65e48-421a-4865-a660-651c12da0356@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "c80fbbfa-b3ed-4499-bc4e-e291812e6784@f9941",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ]
+    }
+  },
+  "169f371f-22ec-4787-b9b0-950ff6728ae3": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris1.fbx",
+    "value": {}
+  },
+  "169f371f-22ec-4787-b9b0-950ff6728ae3@13715": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris1.fbx@13715",
+    "value": {
+      "depends": [
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@89a26",
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@4b6ee"
+      ]
+    }
+  },
+  "169f371f-22ec-4787-b9b0-950ff6728ae3@4b6ee": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris1.fbx@4b6ee",
+    "value": {
+      "depends": []
+    }
+  },
+  "169f371f-22ec-4787-b9b0-950ff6728ae3@48b02": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris1.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "169f371f-22ec-4787-b9b0-950ff6728ae3@7d6ab": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris1.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@48b02"
+      ]
+    }
+  },
+  "169f371f-22ec-4787-b9b0-950ff6728ae3@89a26": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris1.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@7d6ab"
+      ]
+    }
+  },
+  "866668d2-06c7-4ce5-8198-75998dcc730f": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris2.fbx",
+    "value": {}
+  },
+  "866668d2-06c7-4ce5-8198-75998dcc730f@6cd35": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris2.fbx@6cd35",
+    "value": {
+      "depends": []
+    }
+  },
+  "866668d2-06c7-4ce5-8198-75998dcc730f@48b02": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris2.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "866668d2-06c7-4ce5-8198-75998dcc730f@7d6ab": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris2.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "866668d2-06c7-4ce5-8198-75998dcc730f@48b02"
+      ]
+    }
+  },
+  "866668d2-06c7-4ce5-8198-75998dcc730f@89a26": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris2.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "866668d2-06c7-4ce5-8198-75998dcc730f@7d6ab"
+      ]
+    }
+  },
+  "866668d2-06c7-4ce5-8198-75998dcc730f@c1e0a": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris2.fbx@c1e0a",
+    "value": {
+      "depends": [
+        "866668d2-06c7-4ce5-8198-75998dcc730f@89a26",
+        "866668d2-06c7-4ce5-8198-75998dcc730f@6cd35"
+      ]
+    }
+  },
+  "09d7c66b-3ba6-478e-b106-32988c6547a6": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris3.fbx",
+    "value": {}
+  },
+  "09d7c66b-3ba6-478e-b106-32988c6547a6@c4d97": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris3.fbx@c4d97",
+    "value": {
+      "depends": []
+    }
+  },
+  "09d7c66b-3ba6-478e-b106-32988c6547a6@48b02": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris3.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "09d7c66b-3ba6-478e-b106-32988c6547a6@7d6ab": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris3.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "09d7c66b-3ba6-478e-b106-32988c6547a6@48b02"
+      ]
+    }
+  },
+  "09d7c66b-3ba6-478e-b106-32988c6547a6@89a26": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris3.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "09d7c66b-3ba6-478e-b106-32988c6547a6@7d6ab"
+      ]
+    }
+  },
+  "09d7c66b-3ba6-478e-b106-32988c6547a6@ed7c6": {
+    "url": "db://assets/MyModels/Debris/CrystalDebris3.fbx@ed7c6",
+    "value": {
+      "depends": [
+        "09d7c66b-3ba6-478e-b106-32988c6547a6@89a26",
+        "09d7c66b-3ba6-478e-b106-32988c6547a6@c4d97"
+      ]
+    }
+  },
+  "dffa78a9-0947-4ae2-896b-ea1e1eaca76e": {
+    "url": "db://assets/MyModels/Debris/CrystalPickable.fbx",
+    "value": {}
+  },
+  "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@06998": {
+    "url": "db://assets/MyModels/Debris/CrystalPickable.fbx@06998",
+    "value": {
+      "depends": []
+    }
+  },
+  "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@48b02": {
+    "url": "db://assets/MyModels/Debris/CrystalPickable.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@7d6ab": {
+    "url": "db://assets/MyModels/Debris/CrystalPickable.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@48b02"
+      ]
+    }
+  },
+  "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@89a26": {
+    "url": "db://assets/MyModels/Debris/CrystalPickable.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@7d6ab"
+      ]
+    }
+  },
+  "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@0fcff": {
+    "url": "db://assets/MyModels/Debris/CrystalPickable.fbx@0fcff",
+    "value": {
+      "depends": [
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@89a26",
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@06998"
+      ]
+    }
+  },
+  "b3fbf407-2086-45dd-abe2-16ca0feda8db": {
+    "url": "db://assets/Prefabs/Debris/CPickUp.prefab",
+    "value": {}
+  },
+  "6adb51b5-ecf0-4220-83d2-e6a506981c36": {
+    "url": "db://assets/Prefabs/CPickUp.prefab",
+    "value": {
+      "depends": [
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "dffa78a9-0947-4ae2-896b-ea1e1eaca76e@06998",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "ea7478b0-408d-4052-b703-f0d2355e095f",
+        "b5b27ab1-e740-4398-b407-848fc2b2c897@6c48a",
+        "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79",
+        "c31b8892-aa0b-4a02-b8f0-a5a291d254b6",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+        "c2321210-177f-4b1f-a119-bb498a7ae1e5"
+      ]
+    }
+  },
+  "674f3487-2713-40cf-b8bd-4fefc5503326": {
+    "url": "db://assets/Prefabs/Debris/CrystalParticle.prefab",
+    "value": {
+      "depends": [
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@4b6ee",
+        "c703315e-6a46-4e50-b8fb-ac039070ed76",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "866668d2-06c7-4ce5-8198-75998dcc730f@6cd35",
+        "2eefd562-96bd-474c-a4e4-750513b47aea",
+        "9bb64871-6a50-41ac-8a47-727572c94bdc",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "09d7c66b-3ba6-478e-b106-32988c6547a6@c4d97",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ]
+    }
+  },
+  "33043b38-9274-44b3-be47-f97cc1338750": {
+    "url": "db://assets/Audio/CrystalBreak.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "656d9bda-d0c6-4acd-b199-7d4c9abd58ef": {
+    "url": "db://assets/Audio/CrystalBreak2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "700dd375-9db9-413c-b38d-eedcd0d450f0": {
+    "url": "db://assets/Audio/CrystalBreak3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "c703315e-6a46-4e50-b8fb-ac039070ed76": {
+    "url": "db://assets/Audio/CrystalHit1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "2eefd562-96bd-474c-a4e4-750513b47aea": {
+    "url": "db://assets/Audio/CrystalHit2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "9bb64871-6a50-41ac-8a47-727572c94bdc": {
+    "url": "db://assets/Audio/CrystalHit3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "2279ebbd-829e-42e2-be20-4bc00032e012": {
+    "url": "db://assets/Audio/RockBreak2.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "bdb5c7f8-5c33-483a-ae4c-882b3fb7ab24": {
+    "url": "db://assets/Audio/RockBreak1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "12095645-b89d-4a61-9b20-a1d9aaf1ad5f": {
+    "url": "db://assets/Audio/RockBreak3.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "c4e956c7-1fa8-4684-a26a-88c336e4d066": {
+    "url": "db://assets/Prefabs/Debris/RockParticleDeath.prefab",
+    "value": {
+      "depends": [
+        "bdb5c7f8-5c33-483a-ae4c-882b3fb7ab24",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "5c197718-c787-4fba-af9b-3df2c699a794@9bce3",
+        "2279ebbd-829e-42e2-be20-4bc00032e012",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "f84b1f62-6486-497b-885f-0fe49e9907ad@199fe",
+        "12095645-b89d-4a61-9b20-a1d9aaf1ad5f",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1f79a827-7b7f-4f02-87a0-cdaaf4c97715@f8fd1",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ]
+    }
+  },
+  "b7d8098d-6d54-49ae-84d4-8099eed1624a": {
+    "url": "db://assets/Prefabs/Debris/CrystalParticleDeath.prefab",
+    "value": {
+      "depends": [
+        "33043b38-9274-44b3-be47-f97cc1338750",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@4b6ee",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "866668d2-06c7-4ce5-8198-75998dcc730f@6cd35",
+        "656d9bda-d0c6-4acd-b199-7d4c9abd58ef",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "09d7c66b-3ba6-478e-b106-32988c6547a6@c4d97",
+        "700dd375-9db9-413c-b38d-eedcd0d450f0",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ]
+    }
+  },
+  "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db": {
+    "url": "db://assets/Sprites/CrystalResource.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db@6c48a": {
+    "url": "db://assets/Sprites/CrystalResource.png@6c48a",
+    "value": {
+      "depends": [
+        "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db"
+      ]
+    }
+  },
+  "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db@f9941": {
+    "url": "db://assets/Sprites/CrystalResource.png@f9941",
+    "value": {
+      "depends": [
+        "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db@6c48a"
+      ]
+    }
+  },
+  "b8f90617-ac18-4b28-b388-c70e72cde0d3": {
+    "url": "db://assets/Animations/ResourcePopFirst.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "87507ee0-3afa-4263-8406-9f61a552184e": {
+    "url": "db://assets/Audio/UI",
+    "value": {}
+  },
+  "dcc41f8d-64c4-4884-a395-7bccf8bec0eb": {
+    "url": "db://assets/Audio/UI/ButtonClick.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "b6354035-2dc0-4e99-beed-fbca063c200e": {
+    "url": "db://assets/Audio/UI/MenuClose.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "238c22c5-9b14-4937-b741-cc0830cd2a6e": {
+    "url": "db://assets/Audio/UI/MenuOpen.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "14481d78-8e0e-4477-b03a-1ce92826b495": {
+    "url": "db://assets/Audio/UI/newLevelUp.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "84d45539-15ca-4160-820a-01287eac7548": {
+    "url": "db://assets/Prefabs/Upgrade1.prefab",
+    "value": {
+      "depends": [
+        "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381@f9941",
+        "29e74cd8-846f-4ca2-8029-abce04be9c96@f9941",
+        "283dd02b-002b-40be-96f9-b7c2168f1e40@f9941",
+        "9d920687-01e7-461f-a2bc-e55e08e260ed@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f@f9941",
+        "73c36266-64bc-4c98-988d-bc96a90715ba@f9941",
+        "4dee91bd-6fab-40f0-9ba9-cf37b684855f@f9941",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+        "e95471ce-160f-490e-9432-89d41c0b72dd@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "b80443a6-842c-4fee-988f-637259f03ee3@f9941",
+        "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74@f9941",
+        "43788c11-2766-438f-863a-e7c9d95e48c5@f9941",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "3ca41e38-ad33-4bef-8036-2bea3fa3d17c",
+        "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d",
+        "20efa97f-ae87-4652-ac84-8c7da7a9d89b",
+        "802cdfcd-a956-40a0-b606-45dd8168c33d"
+      ]
+    }
+  },
+  "de7923a7-1870-4bb5-b50c-25b1aad1be4d": {
+    "url": "db://assets/Audio/LevelUpReady.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "a8745f4c-5a1f-4775-af8c-4ca37cd0fa69": {
+    "url": "db://assets/Audio/Poof.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "715b2dbb-f7c8-4819-a31a-3c6c924626db": {
+    "url": "db://assets/MyModels/Jackhammer.fbx",
+    "value": {}
+  },
+  "715b2dbb-f7c8-4819-a31a-3c6c924626db@10719": {
+    "url": "db://assets/MyModels/Jackhammer.fbx@10719",
+    "value": {
+      "depends": [
+        "715b2dbb-f7c8-4819-a31a-3c6c924626db@99380",
+        "715b2dbb-f7c8-4819-a31a-3c6c924626db@41ac8"
+      ]
+    }
+  },
+  "715b2dbb-f7c8-4819-a31a-3c6c924626db@99380": {
+    "url": "db://assets/MyModels/Jackhammer.fbx@99380",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "715b2dbb-f7c8-4819-a31a-3c6c924626db@7d6ab"
+      ]
+    }
+  },
+  "715b2dbb-f7c8-4819-a31a-3c6c924626db@41ac8": {
+    "url": "db://assets/MyModels/Jackhammer.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "715b2dbb-f7c8-4819-a31a-3c6c924626db@48b02": {
+    "url": "db://assets/MyModels/Jackhammer.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "715b2dbb-f7c8-4819-a31a-3c6c924626db@7d6ab": {
+    "url": "db://assets/MyModels/Jackhammer.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "715b2dbb-f7c8-4819-a31a-3c6c924626db@48b02"
+      ]
+    }
+  },
+  "bc2f477d-59d2-4c7b-8656-da6345a9826f": {
+    "url": "db://assets/Sprites/max level.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bc2f477d-59d2-4c7b-8656-da6345a9826f@6c48a": {
+    "url": "db://assets/Sprites/max level.png@6c48a",
+    "value": {
+      "depends": [
+        "bc2f477d-59d2-4c7b-8656-da6345a9826f"
+      ]
+    }
+  },
+  "bc2f477d-59d2-4c7b-8656-da6345a9826f@f9941": {
+    "url": "db://assets/Sprites/max level.png@f9941",
+    "value": {
+      "depends": [
+        "bc2f477d-59d2-4c7b-8656-da6345a9826f@6c48a"
+      ]
+    }
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5": {
+    "url": "db://assets/MyModels/Exit.fbx",
+    "value": {}
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@41ac8": {
+    "url": "db://assets/MyModels/Exit.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@53dde": {
+    "url": "db://assets/MyModels/Exit.fbx@53dde",
+    "value": {
+      "depends": []
+    }
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@48b02": {
+    "url": "db://assets/MyModels/Exit.fbx@48b02",
+    "value": {
+      "depends": []
+    }
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@7d6ab": {
+    "url": "db://assets/MyModels/Exit.fbx@7d6ab",
+    "value": {
+      "depends": [
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@48b02"
+      ]
+    }
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@89a26": {
+    "url": "db://assets/MyModels/Exit.fbx@89a26",
+    "value": {
+      "depends": [
+        "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@7d6ab"
+      ]
+    }
+  },
+  "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@69f6c": {
+    "url": "db://assets/MyModels/Exit.fbx@69f6c",
+    "value": {
+      "depends": [
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@89a26",
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@41ac8",
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@89a26",
+        "49e31f8b-fcef-4cd3-a2f9-4446c725dce5@53dde"
+      ]
+    }
+  },
+  "2f61648d-1ea7-43dd-b94b-a32372219072": {
+    "url": "db://assets/Scripts/MRAIDTrigger.ts",
+    "value": {}
+  },
+  "ea73dfa4-eb07-4aa1-8ab7-f40e4086547a": {
+    "url": "db://assets/Prefabs/Crystal.prefab",
+    "value": {
+      "depends": [
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "6adb51b5-ecf0-4220-83d2-e6a506981c36",
+        "674f3487-2713-40cf-b8bd-4fefc5503326",
+        "b7d8098d-6d54-49ae-84d4-8099eed1624a",
+        "7f6afacc-09e6-42c7-9b5f-3cd600ff1e26",
+        "578af125-1d09-4e8d-990d-eacc4ea50487",
+        "445a3d13-91e3-4c94-8134-d2ec4881903d",
+        "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+        "1125185d-83b0-48c1-b93b-338bb3699564@97b51",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "7813a54d-266a-4333-9248-5585427d0868@f9941",
+        "87d3b508-86c3-4374-9388-ec9ce291646e",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+        "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "aeb65e48-421a-4865-a660-651c12da0356@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@f9941",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "c80fbbfa-b3ed-4499-bc4e-e291812e6784@f9941",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+        "ba21476f-2866-4f81-9c4d-6e359316e448"
+      ]
+    }
+  },
+  "fb6a2349-5efc-4f39-b329-d387de5cfec5": {
+    "url": "db://assets/scene/scene-001Backuo.scene",
+    "value": {}
+  },
+  "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef": {
+    "url": "db://assets/Sprites/Black.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef@6c48a": {
+    "url": "db://assets/Sprites/Black.png@6c48a",
+    "value": {
+      "depends": [
+        "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef"
+      ]
+    }
+  },
+  "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef@f9941": {
+    "url": "db://assets/Sprites/Black.png@f9941",
+    "value": {
+      "depends": [
+        "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef@6c48a"
+      ]
+    }
+  },
+  "9d671909-81d0-4f1e-a82e-6cd2cf99c3c2": {
+    "url": "db://assets/Animations/BarsOpen.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "a01614d4-6d5a-4d9a-8b62-d0b78dbaad40": {
+    "url": "db://assets/Animations/CutsceneOn.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "bd5562c3-e42e-49aa-aead-ad5b6b1e86cb": {
+    "url": "db://assets/Animations/CutseneOff.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "21fade22-1b09-414a-85e7-7d4f6c291551": {
+    "url": "db://assets/Audio/BotWork.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "d2b219a3-9d42-4755-a826-5ef46b439fb1": {
+    "url": "db://assets/Audio/Drill.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "df88d968-689e-451e-8463-4be7d036bef2": {
+    "url": "db://assets/Audio/jackHammer.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "64f230ba-433c-4b54-98d3-0f8cc82e16c6": {
+    "url": "db://assets/Scripts/CamShake.ts",
+    "value": {}
+  },
+  "568488ff-8bbc-48f0-83c4-285f4d1db576": {
+    "url": "db://assets/Animations/JiggleUi.anim",
+    "value": {}
+  },
+  "a7c934d2-3d7d-4afe-bc7c-4a1e7d52a222": {
+    "url": "db://assets/Animations/EnableMus.anim",
+    "value": {}
+  },
+  "4b70d8f6-e330-4a3c-82a1-3291679b0231": {
+    "url": "db://assets/Sprites/RestartButtonHover.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4b70d8f6-e330-4a3c-82a1-3291679b0231@6c48a": {
+    "url": "db://assets/Sprites/RestartButtonHover.png@6c48a",
+    "value": {
+      "depends": [
+        "4b70d8f6-e330-4a3c-82a1-3291679b0231"
+      ]
+    }
+  },
+  "435a789c-f35c-4923-bb71-5173d84313b3": {
+    "url": "db://assets/Sprites/RestartButton.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "435a789c-f35c-4923-bb71-5173d84313b3@6c48a": {
+    "url": "db://assets/Sprites/RestartButton.png@6c48a",
+    "value": {
+      "depends": [
+        "435a789c-f35c-4923-bb71-5173d84313b3"
+      ]
+    }
+  },
+  "d258ab02-2cc7-41bd-8c4a-06ad06456ee3": {
+    "url": "db://assets/Sprites/RestartButtonClick.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d258ab02-2cc7-41bd-8c4a-06ad06456ee3@6c48a": {
+    "url": "db://assets/Sprites/RestartButtonClick.png@6c48a",
+    "value": {
+      "depends": [
+        "d258ab02-2cc7-41bd-8c4a-06ad06456ee3"
+      ]
+    }
+  },
+  "435a789c-f35c-4923-bb71-5173d84313b3@f9941": {
+    "url": "db://assets/Sprites/RestartButton.png@f9941",
+    "value": {
+      "depends": [
+        "435a789c-f35c-4923-bb71-5173d84313b3@6c48a"
+      ]
+    }
+  },
+  "4b70d8f6-e330-4a3c-82a1-3291679b0231@f9941": {
+    "url": "db://assets/Sprites/RestartButtonHover.png@f9941",
+    "value": {
+      "depends": [
+        "4b70d8f6-e330-4a3c-82a1-3291679b0231@6c48a"
+      ]
+    }
+  },
+  "d258ab02-2cc7-41bd-8c4a-06ad06456ee3@f9941": {
+    "url": "db://assets/Sprites/RestartButtonClick.png@f9941",
+    "value": {
+      "depends": [
+        "d258ab02-2cc7-41bd-8c4a-06ad06456ee3@6c48a"
+      ]
+    }
+  },
+  "fbf1b0b5-a7da-44af-9115-1140256aad08": {
+    "url": "db://assets/Scripts/RestartButton.ts",
+    "value": {}
+  },
+  "c5dfab0f-ce5f-4852-a349-9f73c355da16": {
+    "url": "db://assets/scene/LoadScene.scene",
+    "value": {
+      "depends": [
+        "c5dfab0f-ce5f-4852-a349-9f73c355da16",
+        "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef@f9941",
+        "aeb65e48-421a-4865-a660-651c12da0356@f9941",
+        "c80fbbfa-b3ed-4499-bc4e-e291812e6784@f9941",
+        "ba1a8e6b-6586-43a0-a487-e594b63ad6a5@f9941",
+        "4925ae8d-c7d2-4a48-8ea1-6aa26bbd875d",
+        "4925ae8d-c7d2-4a48-8ea1-6aa26bbd875d",
+        "a8a56527-cf2f-4f3a-8af5-3e7af712a812",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "4925ae8d-c7d2-4a48-8ea1-6aa26bbd875d": {
+    "url": "db://assets/Animations/LoadAnim.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "be100446-62a3-48e5-9e14-6e9a2006b622": {
+    "url": "db://assets/Scripts/Sc.scene",
+    "value": {}
+  },
+  "d0d957b3-50f7-4129-bf73-373feaf56146": {
+    "url": "db://assets/Scripts/SceneLoader.ts",
+    "value": {}
+  }
+}

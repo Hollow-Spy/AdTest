@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3",
+  "files": [],
+  "subMetas": {
+    "13715": {
+      "importer": "gltf-scene",
+      "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3@13715",
+      "displayName": "",
+      "id": "13715",
+      "name": "CrystalDebris1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b6ee": {
+      "importer": "gltf-mesh",
+      "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3@4b6ee",
+      "displayName": "",
+      "id": "4b6ee",
+      "name": "CrystalDebris1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "169f371f-22ec-4787-b9b0-950ff6728ae3@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a26": {
+      "importer": "gltf-material",
+      "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3@89a26",
+      "displayName": "",
+      "id": "89a26",
+      "name": "Atlas.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "169f371f-22ec-4787-b9b0-950ff6728ae3@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "169f371f-22ec-4787-b9b0-950ff6728ae3@13715",
+    "assetFinder": {
+      "meshes": [
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@4b6ee"
+      ],
+      "skeletons": [],
+      "textures": [
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@7d6ab"
+      ],
+      "materials": [
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@89a26"
+      ],
+      "scenes": [
+        "169f371f-22ec-4787-b9b0-950ff6728ae3@13715"
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "common": {
+    "buildPath": "project://build",
+    "outputName": "cocos-play",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "cocos-play"
+  }
+}

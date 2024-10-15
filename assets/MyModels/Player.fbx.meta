@@ -1,0 +1,546 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb",
+    "__original-animation-4.cconb"
+  ],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 30
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1cf9": {
+      "importer": "gltf-mesh",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@e1cf9",
+      "displayName": "",
+      "id": "e1cf9",
+      "name": "Circle.005.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b107a": {
+      "importer": "gltf-mesh",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@b107a",
+      "displayName": "",
+      "id": "b107a",
+      "name": "Pickaxe.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41ac8": {
+      "importer": "gltf-mesh",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@41ac8",
+      "displayName": "",
+      "id": "41ac8",
+      "name": "Cube.001.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d7c3": {
+      "importer": "gltf-mesh",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d7c3",
+      "displayName": "",
+      "id": "7d7c3",
+      "name": "Drills.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "65bda": {
+      "importer": "gltf-animation",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@65bda",
+      "displayName": "",
+      "id": "65bda",
+      "name": "Armature.001|Armature.001|Armature.001|Armature.001|AXE|Armature.001|Armatur.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.4166667461395264
+        },
+        "events": [
+          {
+            "frame": 0.6,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.6,
+            "func": "SwingEvent",
+            "params": []
+          },
+          {
+            "frame": 0.9,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.9,
+            "func": "AttackAnimationEvent",
+            "params": []
+          },
+          {
+            "frame": 0.9,
+            "func": "PickaxeHitEvent",
+            "params": []
+          }
+        ],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "29e0e": {
+      "importer": "gltf-animation",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@29e0e",
+      "displayName": "",
+      "id": "29e0e",
+      "name": "Armature.001|Armature.001|Armature.001|Armature.001|IDLE|Armature.001|Armatu.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1709a": {
+      "importer": "gltf-animation",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@1709a",
+      "displayName": "",
+      "id": "1709a",
+      "name": "Armature.001|Armature.001|Armature.001|Armature.001|RUN|Armature.001|Armatur.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7083333134651184
+        },
+        "events": [
+          {
+            "frame": 0.26666666666666666,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.26666666666666666,
+            "func": "FootstepEvent",
+            "params": []
+          },
+          {
+            "frame": 0.6333333333333333,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.6333333333333333,
+            "func": "FootstepEvent",
+            "params": []
+          }
+        ],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "fdc81": {
+      "importer": "gltf-animation",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@fdc81",
+      "displayName": "",
+      "id": "fdc81",
+      "name": "Armature.001|Drills.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.2916666567325592
+        },
+        "events": [
+          {
+            "frame": 0.16666666666666666,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.16666666666666666,
+            "func": "AttackAnimationEvent",
+            "params": []
+          }
+        ],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7878c": {
+      "importer": "gltf-animation",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7878c",
+      "displayName": "",
+      "id": "7878c",
+      "name": "Armature.001|JackHammer.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.2916666567325592
+        },
+        "events": [
+          {
+            "frame": 0.16666666666666666,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.16666666666666666,
+            "func": "AttackAnimationEvent",
+            "params": []
+          }
+        ],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 30
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75ee4": {
+      "importer": "gltf-skeleton",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@75ee4",
+      "displayName": "",
+      "id": "75ee4",
+      "name": "UnnamedSkeleton-2.skeleton",
+      "userData": {
+        "gltfIndex": 2,
+        "jointsLength": 30
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a72ab": {
+      "importer": "gltf-skeleton",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@a72ab",
+      "displayName": "",
+      "id": "a72ab",
+      "name": "UnnamedSkeleton-3.skeleton",
+      "userData": {
+        "gltfIndex": 3,
+        "jointsLength": 30
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c90c": {
+      "importer": "gltf-material",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@0c90c",
+      "displayName": "",
+      "id": "0c90c",
+      "name": "T_char.005.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5af6d": {
+      "importer": "gltf-scene",
+      "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@5af6d",
+      "displayName": "",
+      "id": "5af6d",
+      "name": "Player.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Armature.001|Armature.001|Armature.001|Armature.001|AXE|Armature.001|Armatur",
+        "duration": 2.4166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|Armature.001|Armature.001|Armature.001|AXE|Armature.001|Armatur",
+            "from": 0,
+            "to": 2.4166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|Armature.001|Armature.001|Armature.001|IDLE|Armature.001|Armatu",
+        "duration": 5.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|Armature.001|Armature.001|Armature.001|IDLE|Armature.001|Armatu",
+            "from": 0,
+            "to": 5.333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|Armature.001|Armature.001|Armature.001|RUN|Armature.001|Armatur",
+        "duration": 0.7083333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|Armature.001|Armature.001|Armature.001|RUN|Armature.001|Armatur",
+            "from": 0,
+            "to": 0.7083333134651184,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|Drills",
+        "duration": 0.2916666567325592,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|Drills",
+            "from": 0,
+            "to": 0.2916666567325592,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature.001|JackHammer",
+        "duration": 0.2916666567325592,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature.001|JackHammer",
+            "from": 0,
+            "to": 0.2916666567325592,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@5af6d",
+    "assetFinder": {
+      "meshes": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@e1cf9",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@b107a",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@41ac8",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d7c3"
+      ],
+      "skeletons": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@30732",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@f1394",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@75ee4",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@a72ab"
+      ],
+      "textures": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7d6ab"
+      ],
+      "materials": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@0c90c",
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@99380"
+      ],
+      "scenes": [
+        "c453e0f9-0ce1-424e-98ab-857a056e8cfe@5af6d"
+      ]
+    }
+  }
+}

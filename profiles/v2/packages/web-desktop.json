@@ -1,0 +1,35 @@
+{
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "C:\\Users\\Spy\\Desktop\\Test\\Build",
+    "scenes": [
+      {
+        "url": "db://assets/scene/scene-001.scene",
+        "uuid": "1d9fdbbb-3f22-43a7-a706-89d238de92ce",
+        "inBundle": false
+      }
+    ],
+    "startScene": "c5dfab0f-ce5f-4852-a349-9f73c355da16",
+    "outputName": "web-desktop",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-desktop",
+    "buildStageGroup": {
+      "build": [
+        "run"
+      ]
+    },
+    "name": "Test2"
+  },
+  "options": {
+    "web-desktop": {
+      "useWebGPU": false,
+      "resolution": {
+        "designWidth": 1280,
+        "designHeight": 960
+      },
+      "__version__": "1.0.1"
+    }
+  }
+}

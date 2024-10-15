@@ -1,0 +1,68 @@
+# Cocos Creator settings
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Cocos build files
+/build/
+*.js
+*.jsc
+*.pdb
+*.pdb.cache
+*.exe
+*.app
+*.apk
+*.ipa
+*.dSYM
+*.ipa.dSYM
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.vs/
+*.sln
+*.suo
+*.userprefs
+*.sublime-workspace
+*.sublime-project
+
+# IDE and OS-specific files
+.DS_Store
+Thumbs.db
+*.user
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+*.iml
+*.hprof
+
+# Cache and logs
+/cache/
+temp/
+tmp/
+logs/
+
+# Backup files
+*.bak
+*.tmp
+*.log
+
+# Native platform files
+native/
+proj/ios/
+proj/android/
+proj/windows/
+
+# Cocos Creator-specific files
+*.creator
+*.cocosproject
+
+# NPM packages
+node_modules/
+package-lock.json
+yarn.lock
+
+# Editor settings
+settings/

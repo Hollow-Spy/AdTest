@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4",
+  "files": [],
+  "subMetas": {
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d7c3": {
+      "importer": "gltf-mesh",
+      "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d7c3",
+      "displayName": "",
+      "id": "7d7c3",
+      "name": "Drills.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@48b02"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "859e7": {
+      "importer": "gltf-scene",
+      "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@859e7",
+      "displayName": "",
+      "id": "859e7",
+      "name": "Drills.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@48b02"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@859e7",
+    "assetFinder": {
+      "meshes": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d7c3"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@7d6ab"
+      ],
+      "materials": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@99380"
+      ],
+      "scenes": [
+        "b09f6b3c-130f-4408-90d3-7e77bce0d0d4@859e7"
+      ]
+    }
+  }
+}

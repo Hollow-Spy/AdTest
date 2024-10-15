@@ -1,0 +1,1258 @@
+{
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\scene": {
+    "time": 1728988975921.208,
+    "uuid": "b0a4abb1-db32-49c3-9e09-a45b922a2094",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\scene.meta": {
+    "time": 1728648277910.3384
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels.meta": {
+    "time": 1728649478596.5452
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels": {
+    "time": 1728932908511.3093,
+    "uuid": "46395442-038f-4db2-a426-be81ae53f0bc",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\IdBr_character.fbx.meta": {
+    "time": 1728723561071.5537
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\T_Char.png.meta": {
+    "time": 1728649505204.1323
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\T_Char.png": {
+    "time": 1726673043000,
+    "uuid": "13be0ab6-ffaf-43af-8910-572cc9e67013",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\IdBr_character.fbx": {
+    "time": 1726673043000,
+    "uuid": "f48b96d4-d406-42c7-b36b-5c90ce73364a",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\PlayerMat.mtl.meta": {
+    "time": 1728652182604.4607
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\PlayerMat.mtl": {
+    "time": 1728811398402.755,
+    "uuid": "81f79c00-6db7-4f95-84d8-aa8cc16e7a2c",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts.meta": {
+    "time": 1728652847525.8735
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts": {
+    "time": 1728991520100.8477,
+    "uuid": "1c1641a9-cfa5-45a5-8c3c-c880f5858d1e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\Player.ts.meta": {
+    "time": 1728652884085.2231
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\Player.ts": {
+    "time": 1728991444153.9329,
+    "uuid": "9c4273b2-1615-4cc3-a0d1-ecd306d15696",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations.meta": {
+    "time": 1728667358556.33
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations": {
+    "time": 1728988725229.4407,
+    "uuid": "17ed3be9-ce9a-4b55-a44b-64971c76fa33",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\PlayerAnimator.animgraph.meta": {
+    "time": 1728667371693.9814
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\PlayerAnimator.animgraph": {
+    "time": 1728928909489.5544,
+    "uuid": "9b3bb3f5-3873-46ca-8d7d-f1b061e7b971",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\CameraFollow.ts.meta": {
+    "time": 1728676410700.9807
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\CameraFollow.ts": {
+    "time": 1728676793938.7107,
+    "uuid": "91f7a139-7c97-41f3-ad7d-e180895a938a",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\Rock.ts.meta": {
+    "time": 1728682995500.4756
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\Rock.ts": {
+    "time": 1728991466814.3367,
+    "uuid": "080795ff-b571-4677-ba91-9031e74725a2",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\PlayerAnimTags.ts.meta": {
+    "time": 1728723635754.0127
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\PlayerAnimTags.ts": {
+    "time": 1728852689149.7725,
+    "uuid": "b47ee7fb-79cf-418e-a5ad-ffcbf497061d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\TopMask.animask.meta": {
+    "time": 1728723810494.6904
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\TopMask.animask": {
+    "time": 1728848950646.0598,
+    "uuid": "eecf3c02-3ce0-44af-919e-d9b730bec61b",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites.meta": {
+    "time": 1728730612112.408
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites": {
+    "time": 1728987980591.2964,
+    "uuid": "14762276-0865-43a8-ba4c-3c6a81bd9598",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Fill.png.meta": {
+    "time": 1728731076254.1282
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Border.png.meta": {
+    "time": 1728731072362.5598
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Fill.png": {
+    "time": 1728730558859.5295,
+    "uuid": "c80fbbfa-b3ed-4499-bc4e-e291812e6784",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Border.png": {
+    "time": 1728730593768.81,
+    "uuid": "aeb65e48-421a-4865-a660-651c12da0356",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\BorderEmpty.png.meta": {
+    "time": 1728731192188.883
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\BorderEmpty.png": {
+    "time": 1728731171784.7876,
+    "uuid": "ba1a8e6b-6586-43a0-a487-e594b63ad6a5",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\BarPopOn.anim.meta": {
+    "time": 1728732567467.5483
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\BarPopOn.anim": {
+    "time": 1728733163822.355,
+    "uuid": "b3d43fae-4000-445e-8d95-c8fb58ec1dba",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\HitShake.anim.meta": {
+    "time": 1728733671696.8652
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\HitShake.anim": {
+    "time": 1728733940969.9148,
+    "uuid": "0fc671d2-6c2f-4691-abbe-efb5bbd5ec69",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs.meta": {
+    "time": 1728734521447.474
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs": {
+    "time": 1728933602477.3523,
+    "uuid": "0b9fba32-8cc9-40ce-a382-1d2f86ef42f9",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\ResourcePickUp.ts.meta": {
+    "time": 1728740655654.026
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\ResourcePickUp.ts": {
+    "time": 1728991520095.86,
+    "uuid": "46240b7e-265f-4546-9c70-4f151a326e4c",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\ResourceMaterial.pmtl.meta": {
+    "time": 1728751404741.104
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\ResourceMaterial.pmtl": {
+    "time": 1728751422558.4583,
+    "uuid": "c31b8892-aa0b-4a02-b8f0-a5a291d254b6",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\AutoDelete.ts.meta": {
+    "time": 1728753325617.0298
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\AutoDelete.ts": {
+    "time": 1728753497737.764,
+    "uuid": "f36e4aaf-9870-4e4f-bcb5-c10220bf9cfe",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\ResourceManager.ts.meta": {
+    "time": 1728753875699.0332
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\ResourceManager.ts": {
+    "time": 1728927850655.6138,
+    "uuid": "e5b14555-d71f-4f1c-97ea-7e2da59eb928",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\ResourceShakeAdd.anim.meta": {
+    "time": 1728754216656.4429
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\ResourceShakeAdd.anim": {
+    "time": 1728901771664.4536,
+    "uuid": "1a48091e-9f8d-45a8-a806-2114b6818d7e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UpgradeShop.ts.meta": {
+    "time": 1728755912011.2979
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UpgradeShop.ts": {
+    "time": 1728937043073.4155,
+    "uuid": "c1d730ac-b4c8-4772-9c20-a63caae70783",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Resource1.prefab.meta": {
+    "time": 1728757401994.4124
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Resource1.prefab": {
+    "time": 1728924839866.836,
+    "uuid": "a0dd9fcf-2fc7-4b59-a70a-ca73f759d046",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Enviroment.meta": {
+    "time": 1728763358343.1704
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Enviroment": {
+    "time": 1728987666127.3113,
+    "uuid": "67a5f649-4c99-4593-a67a-ef95db52cc24",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Enviroment\\Enviroment.fbx.meta": {
+    "time": 1728812705632.9646
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Enviroment\\Enviroment.fbx": {
+    "time": 1728812372698.6292,
+    "uuid": "1125185d-83b0-48c1-b93b-338bb3699564",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials.meta": {
+    "time": 1728807641152.6855
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials": {
+    "time": 1728987683032.0652,
+    "uuid": "bfc339af-d3f7-438e-b52f-1569bb7cd28c",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\RockMat.mtl.meta": {
+    "time": 1728807652629.669
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\RockMat.mtl": {
+    "time": 1728812394165.7356,
+    "uuid": "2e6b18c8-8b00-4c3f-a5b8-882b7ce1a4e0",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\ColorAtlas.png.meta": {
+    "time": 1728812499650.8228
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\ColorAtlas.png": {
+    "time": 1728824977490.8599,
+    "uuid": "737dbcdb-d4e6-4f8f-aa98-fd6b95bfc040",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Squeaker.fbx.meta": {
+    "time": 1728819093132.075
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Squeaker.fbx": {
+    "time": 1728818579678.6255,
+    "uuid": "e63327b4-c788-4cd4-8135-a464bafd36a5",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\Squeaker.ts.meta": {
+    "time": 1728818748532.042
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\Squeaker.ts": {
+    "time": 1728819026288.5378,
+    "uuid": "367c23fa-078e-4e1c-921c-5031a220455f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Squeaker.prefab.meta": {
+    "time": 1728819418679.2107
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Squeaker.prefab": {
+    "time": 1728819418676.25,
+    "uuid": "4da51720-37f1-4b88-b95f-5746ff3ff11f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio.meta": {
+    "time": 1728821021852.5134
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio": {
+    "time": 1728938558463.8604,
+    "uuid": "3d90c838-8d41-4147-84d0-abf23df03ae0",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\splunk.wav.meta": {
+    "time": 1728821043369.5542
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\splunk.wav": {
+    "time": 1728645292068.7102,
+    "uuid": "4063a0c4-0cbe-4de5-9e00-79690a9f5503",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Ambience1.wav.meta": {
+    "time": 1728821400351.3557
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Ambience1.wav": {
+    "time": 1728821360478.2175,
+    "uuid": "ce137251-8d8c-456c-ad1f-4bb616f40a52",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Bot.fbx.meta": {
+    "time": 1728907819553.841
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Bot.fbx": {
+    "time": 1728827588483.6304,
+    "uuid": "bbb36ea6-a98e-409f-be2b-029b3c8d2782",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\WalterAnimator.animgraph.meta": {
+    "time": 1728827797024.2227
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\WalterAnimator.animgraph": {
+    "time": 1728904397982.5095,
+    "uuid": "d16a2973-14e1-4ca8-abfb-d55030ec59db",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\BotMat.mtl.meta": {
+    "time": 1728828119055.831
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\BotMat.mtl": {
+    "time": 1728828148328.5261,
+    "uuid": "84474881-f707-420a-9b22-100c908993a5",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris.meta": {
+    "time": 1728830037530.9175
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris": {
+    "time": 1728916043595.9592,
+    "uuid": "1e04effa-b5b2-402a-8f58-5d3ff64e7865",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockDebris3.fbx.meta": {
+    "time": 1728830084534.845
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockDebris1.fbx.meta": {
+    "time": 1728830084812.6243
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockDebris2.fbx.meta": {
+    "time": 1728830085110.816
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockDebris3.fbx": {
+    "time": 1728830069960.3838,
+    "uuid": "1f79a827-7b7f-4f02-87a0-cdaaf4c97715",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockDebris1.fbx": {
+    "time": 1728830054872.3728,
+    "uuid": "5c197718-c787-4fba-af9b-3df2c699a794",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockDebris2.fbx": {
+    "time": 1728830062505.475,
+    "uuid": "f84b1f62-6486-497b-885f-0fe49e9907ad",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris.meta": {
+    "time": 1728832719269.6875
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris": {
+    "time": 1728923142348.582,
+    "uuid": "4094bfe2-9b99-4cce-bcf3-d62c4897c605",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\RockParticle.prefab.meta": {
+    "time": 1728832724958.803
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\RockParticle.prefab": {
+    "time": 1728853045151.3452,
+    "uuid": "ac8a9b53-d533-41ee-b7ec-740e17d367c4",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\RandomImpulse.ts.meta": {
+    "time": 1728833975975.6843
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\RandomImpulse.ts": {
+    "time": 1728834077289.7322,
+    "uuid": "6180b36b-bef7-4cb2-b14a-39b9c64992c4",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\EnableRandom.ts.meta": {
+    "time": 1728834215469.1165
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\EnableRandom.ts": {
+    "time": 1728835295565.9297,
+    "uuid": "b61292dd-b306-455e-ada9-d42d5d8d7bb0",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockHit1.wav.meta": {
+    "time": 1728835810660.1511
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockHit1.wav": {
+    "time": 1728647018696.749,
+    "uuid": "66945786-b66e-4190-a178-242f32d838b8",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockHit2.wav.meta": {
+    "time": 1728835994959.979
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockHit3.wav.meta": {
+    "time": 1728835994995.8848
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockHit2.wav": {
+    "time": 1728835971041.2502,
+    "uuid": "a12e4082-ea2f-4030-a243-3c3a0c0fa4b7",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockHit3.wav": {
+    "time": 1728835989060.6294,
+    "uuid": "c6f7297b-3e82-4f67-876b-9a876e9c8e70",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockResource.fbx.meta": {
+    "time": 1728836173677.4731
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\RockResource.fbx": {
+    "time": 1728836142015.2024,
+    "uuid": "34b13e92-2256-415e-add9-a91be5f35868",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\PickableRotation.anim.meta": {
+    "time": 1728836611397.603
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\PickableRotation.anim": {
+    "time": 1728906907227.951,
+    "uuid": "c2321210-177f-4b1f-a119-bb498a7ae1e5",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickUp.wav.meta": {
+    "time": 1728836930045.141
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickUp.wav": {
+    "time": 1728837782508.2622,
+    "uuid": "145f7ddc-d80d-4994-a8b6-c1a47e0e8f79",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RockPickUp.png.meta": {
+    "time": 1728837885589.19
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RockPickUp.png": {
+    "time": 1728829951656.5688,
+    "uuid": "27f88a35-f654-43a0-ac3d-f39eb1590b4f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\PickUp.prefab.meta": {
+    "time": 1728838014563.5845
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\PickUp.prefab": {
+    "time": 1728922279319.849,
+    "uuid": "e651c4d6-1238-4b54-90f9-c0077fb2802e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\ToolLevel.png.meta": {
+    "time": 1728892210503.7427
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\ToolLevel.png": {
+    "time": 1728892172662.4648,
+    "uuid": "7813a54d-266a-4333-9248-5585427d0868",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\TooLow.wav.meta": {
+    "time": 1728839258531.2383
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\TooLow.wav": {
+    "time": 1728839249143.1858,
+    "uuid": "87d3b508-86c3-4374-9388-ec9ce291646e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\DrillMat.mtl.meta": {
+    "time": 1728844056386.345
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\DrillMat.mtl": {
+    "time": 1728844711965.141,
+    "uuid": "57ebd1e3-7c15-4de1-b2a5-13e4785afc14",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Player.fbx.meta": {
+    "time": 1728929434885.4905
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Player.fbx": {
+    "time": 1728849746169.8694,
+    "uuid": "c453e0f9-0ce1-424e-98ab-857a056e8cfe",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\PickaxeMat.mtl.meta": {
+    "time": 1728849846077.9827
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Materials\\PickaxeMat.mtl": {
+    "time": 1728849911410.5908,
+    "uuid": "733f8d88-f0b9-4da0-8908-aa71df6ecb2e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Swing1.wav.meta": {
+    "time": 1728849994073.3792
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Swing1.wav": {
+    "time": 1728647152778.3657,
+    "uuid": "380861b6-4b9e-4b9a-9581-10c38a1ef169",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickAxeHit2.wav.meta": {
+    "time": 1728850332087.5269
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickAxeHit3.wav.meta": {
+    "time": 1728850332149.3647
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickAxeHit.wav.meta": {
+    "time": 1728850332182.2832
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickAxeHit2.wav": {
+    "time": 1728850305437.5903,
+    "uuid": "c1539ef6-f33e-4798-825b-617143eca406",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickAxeHit3.wav": {
+    "time": 1728850319938.085,
+    "uuid": "bc68ded0-f93a-45fc-ba74-4bc8a1465e6d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\PickAxeHit.wav": {
+    "time": 1728850275922.1738,
+    "uuid": "60f4d8ed-c9ec-4558-8543-49a37c1e04fb",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Swing2.wav.meta": {
+    "time": 1728850433654.027
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Swing3.wav.meta": {
+    "time": 1728850433704.8938
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Swing2.wav": {
+    "time": 1728850417641.5073,
+    "uuid": "fc587508-0f12-42f0-8ed5-fed87466ab93",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Swing3.wav": {
+    "time": 1728850429820.144,
+    "uuid": "3685ff52-5f93-42bf-8cbb-353c85e336cc",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep4.wav.meta": {
+    "time": 1728852597364.3855
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep3.wav.meta": {
+    "time": 1728852597415.2493
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep2.wav.meta": {
+    "time": 1728852597446.167
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep1.wav.meta": {
+    "time": 1728852597481.0735
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep4.wav": {
+    "time": 1728852584727.0574,
+    "uuid": "39729199-00ba-4198-804e-0802c9d949db",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep3.wav": {
+    "time": 1728852570304.0403,
+    "uuid": "b472d8a9-965d-407b-a4af-83db4b5eac68",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep2.wav": {
+    "time": 1728852556282.3403,
+    "uuid": "f3939cd8-a9f8-44ba-82a7-d6784ddd9d32",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Foostep1.wav": {
+    "time": 1728647902287.145,
+    "uuid": "5be63732-3a19-4c1c-b9d8-7c842a97b9e3",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\CascadiaMonoPL-Regular.otf.meta": {
+    "time": 1728891105984.0261
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\CascadiaMonoPL-Regular.otf": {
+    "time": 1623335482000,
+    "uuid": "a3c9655b-5055-43af-b3a2-2731ab3149fa",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UIResource.ts.meta": {
+    "time": 1728892374910.105
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UIResource.ts": {
+    "time": 1728927718900.5432,
+    "uuid": "d9137022-afbe-4789-a2ff-6622c550063d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DualDrillCard.png.meta": {
+    "time": 1728895706648.669
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\PickaxeCard.png.meta": {
+    "time": 1728895706626.7273
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Cost.png.meta": {
+    "time": 1728895706568.8904
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\JackHammerCard.png.meta": {
+    "time": 1728895706632.7104
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DualDrillCard.png": {
+    "time": 1728895026842.9976,
+    "uuid": "29e74cd8-846f-4ca2-8029-abce04be9c96",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\PickaxeCard.png": {
+    "time": 1728895287598.0764,
+    "uuid": "283dd02b-002b-40be-96f9-b7c2168f1e40",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Cost.png": {
+    "time": 1728895462706.8982,
+    "uuid": "e95471ce-160f-490e-9432-89d41c0b72dd",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\JackHammerCard.png": {
+    "time": 1728895391832.995,
+    "uuid": "69f930f8-8821-42b3-b7ed-04788d965a14",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\UpgradeButton.png.meta": {
+    "time": 1728895971556.5686
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\UpgradeButton.png": {
+    "time": 1728895958179.7292,
+    "uuid": "4dee91bd-6fab-40f0-9ba9-cf37b684855f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\UpgradeArrow.png.meta": {
+    "time": 1728896189496.3323
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\UpgradeArrow.png": {
+    "time": 1728895556449.4658,
+    "uuid": "9d920687-01e7-461f-a2bc-e55e08e260ed",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CloseButton.png.meta": {
+    "time": 1728896705472.7952
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CloseButton.png": {
+    "time": 1728896691850.985,
+    "uuid": "43788c11-2766-438f-863a-e7c9d95e48c5",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\upgradeStartUp.anim.meta": {
+    "time": 1728896877948.4495
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\upgradeStartUp.anim": {
+    "time": 1728898868569.8403,
+    "uuid": "802cdfcd-a956-40a0-b606-45dd8168c33d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\upgradeWindowLoop.anim.meta": {
+    "time": 1728897011072.407
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\upgradeWindowLoop.anim": {
+    "time": 1728898950346.3867,
+    "uuid": "fd8e8c8d-2a72-417b-bac0-06354473b1ff",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UpgradeManager.ts.meta": {
+    "time": 1728897588421.2312
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UpgradeManager.ts": {
+    "time": 1728935562133.3796,
+    "uuid": "5c7e3011-1dd9-47b2-a6f2-359dd18ef5f7",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UIUpgrade.ts.meta": {
+    "time": 1728897630209.4553
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\UIUpgrade.ts": {
+    "time": 1728932360069.6648,
+    "uuid": "a2f1a1a0-c879-4624-887e-0977d7804d0f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\CloseUpgradeWindow.anim.meta": {
+    "time": 1728898318470.8838
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\CloseUpgradeWindow.anim": {
+    "time": 1728898480146.0215,
+    "uuid": "20efa97f-ae87-4652-ac84-8c7da7a9d89b",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\upgradeButtonHover.png.meta": {
+    "time": 1728900401801.659
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\upgradeButtonPressed.png.meta": {
+    "time": 1728900401797.6707
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\upgradeButtonHover.png": {
+    "time": 1728900343153.6292,
+    "uuid": "39fe7b26-4dc5-49a4-a7bd-c53f60bedc9f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\upgradeButtonPressed.png": {
+    "time": 1728901361756.2146,
+    "uuid": "73c36266-64bc-4c98-988d-bc96a90715ba",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CloseButtonClick.png.meta": {
+    "time": 1728901509346.4487
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CloseButtonHover.png.meta": {
+    "time": 1728901509344.4536
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CloseButtonClick.png": {
+    "time": 1728901469702.079,
+    "uuid": "6ccdfdf8-14a5-47e5-ad2e-91c1aa8d1c74",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CloseButtonHover.png": {
+    "time": 1728901478303.3672,
+    "uuid": "b80443a6-842c-4fee-988f-637259f03ee3",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Highlight.png.meta": {
+    "time": 1728902946066.3945
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Highlight.png": {
+    "time": 1728902752118.9678,
+    "uuid": "fe9cac4f-2f72-4ebf-a9b7-347e1ca27381",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\upgradeWindowUpgrade.anim.meta": {
+    "time": 1728903015816.465
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\upgradeWindowUpgrade.anim": {
+    "time": 1728925884440.632,
+    "uuid": "3ca41e38-ad33-4bef-8036-2bea3fa3d17c",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\BotAnimTag.ts.meta": {
+    "time": 1728904936544.8438
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\BotAnimTag.ts": {
+    "time": 1728937217621.3198,
+    "uuid": "eb302e48-9ab6-4e80-9772-73b3060ac801",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Upgrades.meta": {
+    "time": 1728905371981.665
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Upgrades": {
+    "time": 1728906425046.7292,
+    "uuid": "9b9600e2-2ff1-411b-88f4-b2e84e75ca58",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Upgrades\\Drills.fbx.meta": {
+    "time": 1728906371124.0156
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Upgrades\\Drills.fbx": {
+    "time": 1728906414994.401,
+    "uuid": "b09f6b3c-130f-4408-90d3-7e77bce0d0d4",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\UpgradePickUp.prefab.meta": {
+    "time": 1728906778785.846
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\UpgradePickUp.prefab": {
+    "time": 1728906778781.8572,
+    "uuid": "2d480931-f27e-4dc3-9b9f-9d0840c20492",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\MainMusic.ts.meta": {
+    "time": 1728913405215.0962
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\MainMusic.ts": {
+    "time": 1728940387842.4807,
+    "uuid": "afdb5f40-12f4-41ce-acb3-b92d9d6f8288",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DamageNumber2.png.meta": {
+    "time": 1728913978695.8855
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DamageNumber4.png.meta": {
+    "time": 1728913978700.869
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DamageNumber3.png.meta": {
+    "time": 1728913978719.8176
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DamageNumber2.png": {
+    "time": 1728913894278.0647,
+    "uuid": "80a35521-19ab-4409-aab9-77f270980942",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DamageNumber4.png": {
+    "time": 1728913936678.597,
+    "uuid": "e98d1895-8354-4f91-9cb6-b59f3217c380",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\DamageNumber3.png": {
+    "time": 1728913917168.9207,
+    "uuid": "b2070b44-8d2e-4ffc-978a-2605463ab16e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims.meta": {
+    "time": 1728914262206.2617
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims\\NumberAnim1.anim.meta": {
+    "time": 1728914262265.1062
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims": {
+    "time": 1728914507242.6768,
+    "uuid": "60dc597e-4d6a-49b5-851c-5e9abb148093",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims\\NumberAnim1.anim": {
+    "time": 1728914445852.647,
+    "uuid": "e807672e-98f7-4a2f-9a45-a4a70fcad1dd",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims\\NumberAnim2.anim.meta": {
+    "time": 1728914453604.435
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims\\NumberAnim2.anim": {
+    "time": 1728914508475.3518,
+    "uuid": "6c7f45bc-8518-4697-8581-1c7362f29384",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims\\NumberAnim3.anim.meta": {
+    "time": 1728914507258.642
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\NumberAnims\\NumberAnim3.anim": {
+    "time": 1728914765122.0647,
+    "uuid": "8a346cfb-4bca-436e-a75a-2dbe0621c4a1",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\DamageNumberAnim.ts.meta": {
+    "time": 1728914588551.915
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\DamageNumberAnim.ts": {
+    "time": 1728915304322.7517,
+    "uuid": "daace4f0-b77c-477c-8eb1-8bba569bd828",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\DamageNumber.prefab.meta": {
+    "time": 1728914787928.7944
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\DamageNumber.prefab": {
+    "time": 1728915236067.5562,
+    "uuid": "578af125-1d09-4e8d-990d-eacc4ea50487",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\DamageNumber3.prefab.meta": {
+    "time": 1728914858787.8179
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\DamageNumber3.prefab": {
+    "time": 1728914858784.8252,
+    "uuid": "7f6afacc-09e6-42c7-9b5f-3cd600ff1e26",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\DamageNumber4.prefab.meta": {
+    "time": 1728914884495.0254
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\DamageNumber4.prefab": {
+    "time": 1728914884492.0325,
+    "uuid": "445a3d13-91e3-4c94-8134-d2ec4881903d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Rock.prefab.meta": {
+    "time": 1728915469416.4895
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Rock.prefab": {
+    "time": 1728924030223.3186,
+    "uuid": "ec797aac-ce2e-436c-9da3-6f31f5166d5b",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalDebris1.fbx.meta": {
+    "time": 1728916044127.6233
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalDebris2.fbx.meta": {
+    "time": 1728916044469.705
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalDebris3.fbx.meta": {
+    "time": 1728916044862.6572
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalPickable.fbx.meta": {
+    "time": 1728916045527.8755
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalDebris1.fbx": {
+    "time": 1728915962174.8975,
+    "uuid": "169f371f-22ec-4787-b9b0-950ff6728ae3",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalDebris2.fbx": {
+    "time": 1728916006118.596,
+    "uuid": "866668d2-06c7-4ce5-8198-75998dcc730f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalDebris3.fbx": {
+    "time": 1728916014298.5688,
+    "uuid": "09d7c66b-3ba6-478e-b106-32988c6547a6",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Debris\\CrystalPickable.fbx": {
+    "time": 1728916022681.6436,
+    "uuid": "dffa78a9-0947-4ae2-896b-ea1e1eaca76e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\CPickUp.prefab.meta": {
+    "time": 1728919857099.2168
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\CPickUp.prefab": {
+    "time": 1728922354109.1475,
+    "uuid": "6adb51b5-ecf0-4220-83d2-e6a506981c36",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\CrystalParticle.prefab.meta": {
+    "time": 1728922587160.3872
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\CrystalParticle.prefab": {
+    "time": 1728923479590.2727,
+    "uuid": "674f3487-2713-40cf-b8bd-4fefc5503326",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalBreak.wav.meta": {
+    "time": 1728923043002.0393
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalBreak2.wav.meta": {
+    "time": 1728923043051.9055
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalBreak3.wav.meta": {
+    "time": 1728923043088.8076
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalBreak.wav": {
+    "time": 1728646699400.8406,
+    "uuid": "33043b38-9274-44b3-be47-f97cc1338750",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalBreak2.wav": {
+    "time": 1728923020345.399,
+    "uuid": "656d9bda-d0c6-4acd-b199-7d4c9abd58ef",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalBreak3.wav": {
+    "time": 1728923031386.1868,
+    "uuid": "700dd375-9db9-413c-b38d-eedcd0d450f0",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalHit1.wav.meta": {
+    "time": 1728923050424.313
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalHit2.wav.meta": {
+    "time": 1728923050457.2249
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalHit3.wav.meta": {
+    "time": 1728923050490.135
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalHit1.wav": {
+    "time": 1728646726322.747,
+    "uuid": "c703315e-6a46-4e50-b8fb-ac039070ed76",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalHit2.wav": {
+    "time": 1728922898379.8323,
+    "uuid": "2eefd562-96bd-474c-a4e4-750513b47aea",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\CrystalHit3.wav": {
+    "time": 1728922924055.7512,
+    "uuid": "9bb64871-6a50-41ac-8a47-727572c94bdc",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockBreak2.wav.meta": {
+    "time": 1728923115805.809
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockBreak1.wav.meta": {
+    "time": 1728923115861.6597
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockBreak3.wav.meta": {
+    "time": 1728923115909.5437
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockBreak2.wav": {
+    "time": 1728923097913.2087,
+    "uuid": "2279ebbd-829e-42e2-be20-4bc00032e012",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockBreak1.wav": {
+    "time": 1728647097809.5635,
+    "uuid": "bdb5c7f8-5c33-483a-ae4c-882b3fb7ab24",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\RockBreak3.wav": {
+    "time": 1728923108348.1418,
+    "uuid": "12095645-b89d-4a61-9b20-a1d9aaf1ad5f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\RockParticleDeath.prefab.meta": {
+    "time": 1728923132655.1106
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\RockParticleDeath.prefab": {
+    "time": 1728923315421.3555,
+    "uuid": "c4e956c7-1fa8-4684-a26a-88c336e4d066",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\CrystalParticleDeath.prefab.meta": {
+    "time": 1728923142357.5566
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Debris\\CrystalParticleDeath.prefab": {
+    "time": 1728923493178.9272,
+    "uuid": "b7d8098d-6d54-49ae-84d4-8099eed1624a",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CrystalResource.png.meta": {
+    "time": 1728924268881.202
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\CrystalResource.png": {
+    "time": 1728915994448.0725,
+    "uuid": "59a067d1-51ee-44a0-bb6d-a46b2f4ca9db",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\ResourcePopFirst.anim.meta": {
+    "time": 1728924326718.905
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\ResourcePopFirst.anim": {
+    "time": 1728924429105.1382,
+    "uuid": "b8f90617-ac18-4b28-b388-c70e72cde0d3",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI.meta": {
+    "time": 1728925894445.5977
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI": {
+    "time": 1728925902493.9663,
+    "uuid": "87507ee0-3afa-4263-8406-9f61a552184e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\ButtonClick.wav.meta": {
+    "time": 1728925902537.8496
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\MenuClose.wav.meta": {
+    "time": 1728925902569.7715
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\MenuOpen.wav.meta": {
+    "time": 1728925902600.6816
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\newLevelUp.wav.meta": {
+    "time": 1728925902634.5903
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\ButtonClick.wav": {
+    "time": 1728925544556.28,
+    "uuid": "dcc41f8d-64c4-4884-a395-7bccf8bec0eb",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\MenuClose.wav": {
+    "time": 1728925463034.1821,
+    "uuid": "b6354035-2dc0-4e99-beed-fbca063c200e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\MenuOpen.wav": {
+    "time": 1728925311484.8987,
+    "uuid": "238c22c5-9b14-4937-b741-cc0830cd2a6e",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\UI\\newLevelUp.wav": {
+    "time": 1728925871991.217,
+    "uuid": "14481d78-8e0e-4477-b03a-1ce92826b495",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Upgrade1.prefab.meta": {
+    "time": 1728926485948.7625
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Upgrade1.prefab": {
+    "time": 1728926485945.77,
+    "uuid": "84d45539-15ca-4160-820a-01287eac7548",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\LevelUpReady.wav.meta": {
+    "time": 1728928568907.1157
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\LevelUpReady.wav": {
+    "time": 1728648482186.246,
+    "uuid": "de7923a7-1870-4bb5-b50c-25b1aad1be4d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Poof.wav.meta": {
+    "time": 1728928875764.6697
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Poof.wav": {
+    "time": 1728928869376.793,
+    "uuid": "a8745f4c-5a1f-4775-af8c-4ca37cd0fa69",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Jackhammer.fbx.meta": {
+    "time": 1728929039806.3584
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Jackhammer.fbx": {
+    "time": 1728929020928.329,
+    "uuid": "715b2dbb-f7c8-4819-a31a-3c6c924626db",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\max level.png.meta": {
+    "time": 1728932168244.4133
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\max level.png": {
+    "time": 1728932113280.0955,
+    "uuid": "bc2f477d-59d2-4c7b-8656-da6345a9826f",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Exit.fbx.meta": {
+    "time": 1728932821998.5906
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\MyModels\\Exit.fbx": {
+    "time": 1728932898127.5654,
+    "uuid": "49e31f8b-fcef-4cd3-a2f9-4446c725dce5",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\MRAIDTrigger.ts.meta": {
+    "time": 1728933345399.8645
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\MRAIDTrigger.ts": {
+    "time": 1728933463948.6086,
+    "uuid": "2f61648d-1ea7-43dd-b94b-a32372219072",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Crystal.prefab.meta": {
+    "time": 1728933602498.2961
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Prefabs\\Crystal.prefab": {
+    "time": 1728933602495.303,
+    "uuid": "ea73dfa4-eb07-4aa1-8ab7-f40e4086547a",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Black.png.meta": {
+    "time": 1728936388204.35
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\Black.png": {
+    "time": 1728936362589.2092,
+    "uuid": "fb10828c-ac0f-4cec-bf09-f47b20dfc1ef",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\BarsOpen.anim.meta": {
+    "time": 1728936553189.7231
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\BarsOpen.anim": {
+    "time": 1728936903772.5862,
+    "uuid": "9d671909-81d0-4f1e-a82e-6cd2cf99c3c2",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\CutsceneOn.anim.meta": {
+    "time": 1728936722761.202
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\CutsceneOn.anim": {
+    "time": 1728937319729.3389,
+    "uuid": "a01614d4-6d5a-4d9a-8b62-d0b78dbaad40",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\CutseneOff.anim.meta": {
+    "time": 1728936822586.4236
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\CutseneOff.anim": {
+    "time": 1728937348003.4312,
+    "uuid": "bd5562c3-e42e-49aa-aead-ad5b6b1e86cb",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\BotWork.wav.meta": {
+    "time": 1728938124332.0564
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\BotWork.wav": {
+    "time": 1728938110849.2644,
+    "uuid": "21fade22-1b09-414a-85e7-7d4f6c291551",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Drill.wav.meta": {
+    "time": 1728938474414.7876
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\Drill.wav": {
+    "time": 1728938463954.2134,
+    "uuid": "d2b219a3-9d42-4755-a826-5ef46b439fb1",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\jackHammer.wav.meta": {
+    "time": 1728938558500.7603
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Audio\\jackHammer.wav": {
+    "time": 1728938552686.5674,
+    "uuid": "df88d968-689e-451e-8463-4be7d036bef2",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\CamShake.ts.meta": {
+    "time": 1728938957824.9995
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\CamShake.ts": {
+    "time": 1728939032987.8994,
+    "uuid": "64f230ba-433c-4b54-98d3-0f8cc82e16c6",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RestartButtonHover.png.meta": {
+    "time": 1728987997594.9558
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RestartButton.png.meta": {
+    "time": 1728987997588.9714
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RestartButtonClick.png.meta": {
+    "time": 1728987997601.9373
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RestartButtonHover.png": {
+    "time": 1728987935583.891,
+    "uuid": "4b70d8f6-e330-4a3c-82a1-3291679b0231",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RestartButton.png": {
+    "time": 1728987926972.298,
+    "uuid": "435a789c-f35c-4923-bb71-5173d84313b3",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Sprites\\RestartButtonClick.png": {
+    "time": 1728987964173.2844,
+    "uuid": "d258ab02-2cc7-41bd-8c4a-06ad06456ee3",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\RestartButton.ts.meta": {
+    "time": 1728988083715.5874
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\RestartButton.ts": {
+    "time": 1728988121930.8752,
+    "uuid": "fbf1b0b5-a7da-44af-9115-1140256aad08",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\scene\\LoadScene.scene.meta": {
+    "time": 1728988420623.0789
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\scene\\LoadScene.scene": {
+    "time": 1728989657908.7517,
+    "uuid": "c5dfab0f-ce5f-4852-a349-9f73c355da16",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\LoadAnim.anim.meta": {
+    "time": 1728988725264.3474
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Animations\\LoadAnim.anim": {
+    "time": 1728988845692.119,
+    "uuid": "4925ae8d-c7d2-4a48-8ea1-6aa26bbd875d",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\SceneLoader.ts.meta": {
+    "time": 1728988897428.5017
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\Scripts\\SceneLoader.ts": {
+    "time": 1728989555943.9343,
+    "uuid": "d0d957b3-50f7-4129-bf73-373feaf56146",
+    "missing": false
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\scene\\MainScene.scene.meta": {
+    "time": 1728846468420.4316
+  },
+  "C:\\Users\\Spy\\Desktop\\Test\\Project\\Test\\assets\\scene\\MainScene.scene": {
+    "time": 1728993131376.976,
+    "uuid": "1d9fdbbb-3f22-43a7-a706-89d238de92ce",
+    "missing": false
+  }
+}

@@ -1,0 +1,701 @@
+[
+  {
+    "__type__": "cc.animation.AnimationGraph",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "_layers": [
+      {
+        "__id__": 1
+      },
+      {
+        "__id__": 25
+      }
+    ],
+    "_variables": {
+      "Running": {
+        "__id__": 52
+      },
+      "Attacking": {
+        "__id__": 53
+      },
+      "Drill": {
+        "__id__": 54
+      },
+      "Jack": {
+        "__id__": 55
+      }
+    }
+  },
+  {
+    "__type__": "cc.animation.Layer",
+    "_stateMachine": {
+      "__id__": 2
+    },
+    "name": "",
+    "weight": 1,
+    "mask": null
+  },
+  {
+    "__type__": "cc.animation.StateMachine",
+    "__editorExtras__": {
+      "viewport": {
+        "scale": 0.7799999999999998,
+        "top": -2.593789753989907,
+        "left": -440.6532820561798
+      }
+    },
+    "_states": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 10
+      }
+    ],
+    "_transitions": [
+      {
+        "__id__": 12
+      },
+      {
+        "__id__": 13
+      },
+      {
+        "__id__": 16
+      },
+      {
+        "__id__": 19
+      },
+      {
+        "__id__": 22
+      }
+    ],
+    "_entryState": {
+      "__id__": 3
+    },
+    "_exitState": {
+      "__id__": 4
+    },
+    "_anyState": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.animation.State",
+    "__editorExtras__": {
+      "centerX": -204.4871794871795,
+      "centerY": 10.256410256410263,
+      "id": "17286676554060.06943597446870076"
+    },
+    "name": "Entry"
+  },
+  {
+    "__type__": "cc.animation.State",
+    "name": "Exit"
+  },
+  {
+    "__type__": "cc.animation.State",
+    "__editorExtras__": {
+      "centerX": 267.63736263736257,
+      "centerY": 98.8644688644689,
+      "id": "17286676547450.12913853079846915"
+    },
+    "name": "Any"
+  },
+  {
+    "__type__": "cc.animation.Motion",
+    "__editorExtras__": {
+      "centerX": 8.323694373479668,
+      "centerY": 1.735834037874497,
+      "id": "17286676339570.7530387694843457"
+    },
+    "name": "Armature.001|Armature.001|Armature.001|Armature.001|IDLE|Armature.001|Armatu",
+    "_components": [],
+    "motion": {
+      "__id__": 7
+    },
+    "speed": 1,
+    "speedMultiplier": "",
+    "speedMultiplierEnabled": false
+  },
+  {
+    "__type__": "cc.animation.ClipMotion",
+    "__editorExtras__": {
+      "id": "17286676339530.7120322716184719",
+      "centerX": 0,
+      "centerY": 0,
+      "name": ""
+    },
+    "clip": {
+      "__uuid__": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@29e0e",
+      "__expectedType__": "cc.AnimationClip"
+    }
+  },
+  {
+    "__type__": "cc.animation.Motion",
+    "__editorExtras__": {
+      "centerX": 21.141881994298842,
+      "centerY": -94.39863545185818,
+      "id": "17286676352360.5961963582291643"
+    },
+    "name": "Armature.001|Armature.001|Armature.001|Armature.001|RUN|Armature.001|Armatur",
+    "_components": [],
+    "motion": {
+      "__id__": 9
+    },
+    "speed": 1,
+    "speedMultiplier": "",
+    "speedMultiplierEnabled": false
+  },
+  {
+    "__type__": "cc.animation.ClipMotion",
+    "__editorExtras__": {
+      "id": "17286676352310.2085683186767735",
+      "centerX": 0,
+      "centerY": 0,
+      "name": ""
+    },
+    "clip": {
+      "__uuid__": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@1709a",
+      "__expectedType__": "cc.AnimationClip"
+    }
+  },
+  {
+    "__type__": "cc.animation.Motion",
+    "__editorExtras__": {
+      "centerX": 341.3296891787754,
+      "centerY": -17.11765522298458,
+      "id": "17289127620660.7582773514673502"
+    },
+    "name": "Armature.001|JackHammer",
+    "_components": [],
+    "motion": {
+      "__id__": 11
+    },
+    "speed": 1,
+    "speedMultiplier": "",
+    "speedMultiplierEnabled": false
+  },
+  {
+    "__type__": "cc.animation.ClipMotion",
+    "__editorExtras__": {
+      "id": "17289127620620.5180465214587717",
+      "centerX": 0,
+      "centerY": 0,
+      "name": ""
+    },
+    "clip": {
+      "__uuid__": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@7878c",
+      "__expectedType__": "cc.AnimationClip"
+    }
+  },
+  {
+    "__type__": "cc.animation.Transition",
+    "from": {
+      "__id__": 3
+    },
+    "to": {
+      "__id__": 6
+    },
+    "conditions": []
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 6
+    },
+    "to": {
+      "__id__": 8
+    },
+    "conditions": [
+      {
+        "__id__": 14
+      }
+    ],
+    "duration": 0.15,
+    "relativeDuration": false,
+    "exitConditionEnabled": false,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 0
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 0,
+    "operand": {
+      "__id__": 15
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Running",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 8
+    },
+    "to": {
+      "__id__": 6
+    },
+    "conditions": [
+      {
+        "__id__": 17
+      }
+    ],
+    "duration": 0.15,
+    "relativeDuration": false,
+    "exitConditionEnabled": false,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 0
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 1,
+    "operand": {
+      "__id__": 18
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Running",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 6
+    },
+    "to": {
+      "__id__": 10
+    },
+    "conditions": [
+      {
+        "__id__": 20
+      }
+    ],
+    "duration": 0.3,
+    "relativeDuration": false,
+    "exitConditionEnabled": false,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 1
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 0,
+    "operand": {
+      "__id__": 21
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Jack",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 8
+    },
+    "to": {
+      "__id__": 10
+    },
+    "conditions": [
+      {
+        "__id__": 23
+      }
+    ],
+    "duration": 0.3,
+    "relativeDuration": false,
+    "exitConditionEnabled": false,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 1
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 0,
+    "operand": {
+      "__id__": 24
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Jack",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.Layer",
+    "_stateMachine": {
+      "__id__": 26
+    },
+    "name": "TopLayer",
+    "weight": 1,
+    "mask": {
+      "__uuid__": "eecf3c02-3ce0-44af-919e-d9b730bec61b",
+      "__expectedType__": "cc.animation.AnimationMask"
+    }
+  },
+  {
+    "__type__": "cc.animation.StateMachine",
+    "__editorExtras__": {
+      "viewport": {
+        "scale": 0.96,
+        "top": -37.62291052393909,
+        "left": -236.4228455949013
+      }
+    },
+    "_states": [
+      {
+        "__id__": 27
+      },
+      {
+        "__id__": 28
+      },
+      {
+        "__id__": 29
+      },
+      {
+        "__id__": 30
+      },
+      {
+        "__id__": 32
+      },
+      {
+        "__id__": 33
+      },
+      {
+        "__id__": 35
+      }
+    ],
+    "_transitions": [
+      {
+        "__id__": 36
+      },
+      {
+        "__id__": 37
+      },
+      {
+        "__id__": 40
+      },
+      {
+        "__id__": 43
+      },
+      {
+        "__id__": 46
+      },
+      {
+        "__id__": 49
+      }
+    ],
+    "_entryState": {
+      "__id__": 27
+    },
+    "_exitState": {
+      "__id__": 28
+    },
+    "_anyState": {
+      "__id__": 29
+    }
+  },
+  {
+    "__type__": "cc.animation.State",
+    "name": "Entry"
+  },
+  {
+    "__type__": "cc.animation.State",
+    "name": "Exit"
+  },
+  {
+    "__type__": "cc.animation.State",
+    "__editorExtras__": {
+      "centerX": -145.6521739130435,
+      "centerY": 81.52173913043481,
+      "id": "17286681040730.6916102517627314"
+    },
+    "name": "Any"
+  },
+  {
+    "__type__": "cc.animation.Motion",
+    "__editorExtras__": {
+      "centerX": 6.36956787109375,
+      "centerY": 65.93480118461275,
+      "id": "17286680981530.05948673366978818",
+      "name": "Attack1"
+    },
+    "name": "Attack1",
+    "_components": [],
+    "motion": {
+      "__id__": 31
+    },
+    "speed": 3,
+    "speedMultiplier": "",
+    "speedMultiplierEnabled": false
+  },
+  {
+    "__type__": "cc.animation.ClipMotion",
+    "__editorExtras__": {
+      "id": "17286680981500.4656859908866149",
+      "centerX": 0,
+      "centerY": 0,
+      "name": ""
+    },
+    "clip": {
+      "__uuid__": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@65bda",
+      "__expectedType__": "cc.AnimationClip"
+    }
+  },
+  {
+    "__type__": "cc.animation.EmptyState",
+    "__editorExtras__": {
+      "centerX": -18.239127781080242,
+      "centerY": -22.58693794582203,
+      "id": "17286681196390.0327353376567987"
+    },
+    "name": "Empty"
+  },
+  {
+    "__type__": "cc.animation.Motion",
+    "__editorExtras__": {
+      "centerX": 170.89822709326648,
+      "centerY": 25.114313910989182,
+      "id": "17289127544720.6557142657146762"
+    },
+    "name": "Armature.001|Drills",
+    "_components": [],
+    "motion": {
+      "__id__": 34
+    },
+    "speed": 1,
+    "speedMultiplier": "",
+    "speedMultiplierEnabled": false
+  },
+  {
+    "__type__": "cc.animation.ClipMotion",
+    "__editorExtras__": {
+      "id": "17289127544670.35936610050593676",
+      "centerX": 0,
+      "centerY": 0,
+      "name": ""
+    },
+    "clip": {
+      "__uuid__": "c453e0f9-0ce1-424e-98ab-857a056e8cfe@fdc81",
+      "__expectedType__": "cc.AnimationClip"
+    }
+  },
+  {
+    "__type__": "cc.animation.EmptyState",
+    "__editorExtras__": {
+      "centerX": 318.5,
+      "centerY": 26.5,
+      "id": "17289284245430.26963892835808756"
+    },
+    "name": "Empty"
+  },
+  {
+    "__type__": "cc.animation.Transition",
+    "from": {
+      "__id__": 27
+    },
+    "to": {
+      "__id__": 32
+    },
+    "conditions": []
+  },
+  {
+    "__type__": "cc.animation.EmptyStateTransition",
+    "from": {
+      "__id__": 32
+    },
+    "to": {
+      "__id__": 30
+    },
+    "conditions": [
+      {
+        "__id__": 38
+      }
+    ],
+    "duration": 0.1,
+    "destinationStart": 0,
+    "relativeDestinationStart": false
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 0,
+    "operand": {
+      "__id__": 39
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Attacking",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 30
+    },
+    "to": {
+      "__id__": 32
+    },
+    "conditions": [
+      {
+        "__id__": 41
+      }
+    ],
+    "duration": 0.1,
+    "relativeDuration": false,
+    "exitConditionEnabled": false,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 1
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 1,
+    "operand": {
+      "__id__": 42
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Attacking",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 30
+    },
+    "to": {
+      "__id__": 33
+    },
+    "conditions": [
+      {
+        "__id__": 44
+      }
+    ],
+    "duration": 0.3,
+    "relativeDuration": false,
+    "exitConditionEnabled": true,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 1
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 0,
+    "operand": {
+      "__id__": 45
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Drill",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.EmptyStateTransition",
+    "from": {
+      "__id__": 32
+    },
+    "to": {
+      "__id__": 33
+    },
+    "conditions": [
+      {
+        "__id__": 47
+      }
+    ],
+    "duration": 0.3,
+    "destinationStart": 0,
+    "relativeDestinationStart": false
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 0,
+    "operand": {
+      "__id__": 48
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Drill",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.AnimationTransition",
+    "from": {
+      "__id__": 33
+    },
+    "to": {
+      "__id__": 35
+    },
+    "conditions": [
+      {
+        "__id__": 50
+      }
+    ],
+    "duration": 0,
+    "relativeDuration": false,
+    "exitConditionEnabled": false,
+    "destinationStart": 0,
+    "relativeDestinationStart": false,
+    "interruptionSource": 0,
+    "_exitCondition": 1
+  },
+  {
+    "__type__": "cc.animation.UnaryCondition",
+    "operator": 1,
+    "operand": {
+      "__id__": 51
+    }
+  },
+  {
+    "__type__": "cc.animation.BindableBoolean",
+    "variable": "Drill",
+    "value": false
+  },
+  {
+    "__type__": "cc.animation.PlainVariable",
+    "_type": 1,
+    "_value": false
+  },
+  {
+    "__type__": "cc.animation.PlainVariable",
+    "_type": 1,
+    "_value": false
+  },
+  {
+    "__type__": "cc.animation.PlainVariable",
+    "_type": 1,
+    "_value": false
+  },
+  {
+    "__type__": "cc.animation.PlainVariable",
+    "_type": 1,
+    "_value": false
+  }
+]

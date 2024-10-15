@@ -1,0 +1,14 @@
+{
+  "common": {
+    "buildPath": "C:\\Users\\Spy\\Desktop\\Test\\Build",
+    "outputName": "Web",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "windows",
+    "buildStageGroup": {
+      "build": [
+        "make",
+        "run"
+      ]
+    }
+  }
+}
